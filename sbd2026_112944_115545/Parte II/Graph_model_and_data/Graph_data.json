@@ -1,0 +1,5837 @@
+[
+  {
+    "g": {
+      "identity": 646,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GSDMA",
+        "description": "gasdermin A",
+        "geneNID": 17073
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:646"
+    },
+    "r": {
+      "identity": 381,
+      "start": 646,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.17,
+        "year": 2016,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:381",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:646",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 258,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "NOS2",
+        "description": "nitric oxide synthase 2",
+        "geneNID": 3464
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:258"
+    },
+    "r": {
+      "identity": 762,
+      "start": 258,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.6,
+        "year": 2010,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:762",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:258",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 378,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "VEGFA",
+        "description": "vascular endothelial growth factor A",
+        "geneNID": 5434
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:378"
+    },
+    "r": {
+      "identity": 1147,
+      "start": 378,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2004,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1147",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:378",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 679,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "D2HGDH",
+        "description": "D-2-hydroxyglutarate dehydrogenase",
+        "geneNID": 19542
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:679"
+    },
+    "r": {
+      "identity": 1122,
+      "start": 679,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2016,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1122",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:679",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 201,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL13",
+        "description": "interleukin 13",
+        "geneNID": 2604
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:201"
+    },
+    "r": {
+      "identity": 605,
+      "start": 201,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.7,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:605",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:201",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 577,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL33",
+        "description": "interleukin 33",
+        "geneNID": 14239
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:577"
+    },
+    "r": {
+      "identity": 1286,
+      "start": 577,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2018,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1286",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:577",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 412,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ATG5",
+        "description": "autophagy related 5",
+        "geneNID": 6703
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:412"
+    },
+    "r": {
+      "identity": 1345,
+      "start": 412,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.16,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1345",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:412",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 130,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "FLG",
+        "description": "filaggrin",
+        "geneNID": 1715
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:130"
+    },
+    "r": {
+      "identity": 294,
+      "start": 130,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.2,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:294",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:130",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 110,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ELANE",
+        "description": "elastase, neutrophil expressed",
+        "geneNID": 1459
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:110"
+    },
+    "r": {
+      "identity": 234,
+      "start": 110,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.04,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:234",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:110",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 447,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IRAK3",
+        "description": "interleukin 1 receptor associated kinase 3",
+        "geneNID": 8093
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:447"
+    },
+    "r": {
+      "identity": 98,
+      "start": 447,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.04,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:98",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:447",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 377,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "VDR",
+        "description": "vitamin D receptor",
+        "geneNID": 5433
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:377"
+    },
+    "r": {
+      "identity": 1143,
+      "start": 377,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2004,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1143",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:377",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 257,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "NOS1",
+        "description": "nitric oxide synthase 1",
+        "geneNID": 3463
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:257"
+    },
+    "r": {
+      "identity": 758,
+      "start": 257,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:758",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:257",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 459,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "NEDD4L",
+        "description": "NEDD4 like E3 ubiquitin protein ligase",
+        "geneNID": 8584
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:459"
+    },
+    "r": {
+      "identity": 312,
+      "start": 459,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2000,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:312",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:459",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 54,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CAT",
+        "description": "catalase",
+        "geneNID": 632
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:54"
+    },
+    "r": {
+      "identity": 1214,
+      "start": 54,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2008,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1214",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:54",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 193,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL6",
+        "description": "interleukin 6",
+        "geneNID": 2585
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:193"
+    },
+    "r": {
+      "identity": 576,
+      "start": 193,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.6,
+        "year": 2019,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:576",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:193",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 358,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TGIF1",
+        "description": "TGFB induced factor homeobox 1",
+        "geneNID": 5151
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:358"
+    },
+    "r": {
+      "identity": 1073,
+      "start": 358,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1073",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:358",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 198,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL10",
+        "description": "interleukin 10",
+        "geneNID": 2595
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:198"
+    },
+    "r": {
+      "identity": 588,
+      "start": 198,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.3,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:588",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:198",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 12,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ADRB2",
+        "description": "adrenoceptor beta 2",
+        "geneNID": 112
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:12"
+    },
+    "r": {
+      "identity": 192,
+      "start": 12,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:192",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:12",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 469,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "SERBP1",
+        "description": "SERPINE1 mRNA binding protein 1",
+        "geneNID": 9125
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:469"
+    },
+    "r": {
+      "identity": 342,
+      "start": 469,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.01,
+        "year": 2002,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:342",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:469",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 500,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "SUFU",
+        "description": "SUFU negative regulator of hedgehog signaling",
+        "geneNID": 10380
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:500"
+    },
+    "r": {
+      "identity": 808,
+      "start": 500,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:808",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:500",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 300,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "PTGS2",
+        "description": "prostaglandin-endoperoxide synthase 2",
+        "geneNID": 4151
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:300"
+    },
+    "r": {
+      "identity": 899,
+      "start": 300,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.3,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:899",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:300",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 337,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "SLC22A5",
+        "description": "solute carrier family 22 member 5",
+        "geneNID": 4774
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:337"
+    },
+    "r": {
+      "identity": 1023,
+      "start": 337,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.13,
+        "year": 2010,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1023",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:337",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 127,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "FGF2",
+        "description": "fibroblast growth factor 2",
+        "geneNID": 1658
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:127"
+    },
+    "r": {
+      "identity": 271,
+      "start": 127,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.04,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:271",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:127",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 457,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CLEC16A",
+        "description": "C-type lectin domain containing 16A",
+        "geneNID": 8545
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:457"
+    },
+    "r": {
+      "identity": 302,
+      "start": 457,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2014,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:302",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:457",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 244,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "MMP9",
+        "description": "matrix metallopeptidase 9",
+        "geneNID": 3143
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:244"
+    },
+    "r": {
+      "identity": 731,
+      "start": 244,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.6,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:731",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:244",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 619,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCDC167",
+        "description": "coiled-coil domain containing 167",
+        "geneNID": 15915
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:619"
+    },
+    "r": {
+      "identity": 196,
+      "start": 619,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:196",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:619",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 32,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "RERE",
+        "description": "arginine-glutamic acid dipeptide repeats",
+        "geneNID": 355
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:32"
+    },
+    "r": {
+      "identity": 750,
+      "start": 32,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2018,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:750",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:32",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 346,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "STAT6",
+        "description": "signal transducer and activator of transcription 6",
+        "geneNID": 4940
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:346"
+    },
+    "r": {
+      "identity": 1042,
+      "start": 346,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2018,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1042",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:346",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 638,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GAS2L2",
+        "description": "growth arrest specific 2 like 2",
+        "geneNID": 16659
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:638"
+    },
+    "r": {
+      "identity": 331,
+      "start": 638,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:331",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:638",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 599,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ZPBP2",
+        "description": "zona pellucida binding protein 2",
+        "geneNID": 14982
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:599"
+    },
+    "r": {
+      "identity": 137,
+      "start": 599,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.18,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:137",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:599",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 298,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "PTGER3",
+        "description": "prostaglandin E receptor 3",
+        "geneNID": 4143
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:298"
+    },
+    "r": {
+      "identity": 894,
+      "start": 298,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.23,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:894",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:298",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 300,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "PTGS2",
+        "description": "prostaglandin-endoperoxide synthase 2",
+        "geneNID": 4151
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:300"
+    },
+    "r": {
+      "identity": 900,
+      "start": 300,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.3,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:900",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:300",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 403,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL18R1",
+        "description": "interleukin 18 receptor 1",
+        "geneNID": 6219
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:403"
+    },
+    "r": {
+      "identity": 1258,
+      "start": 403,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.2,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1258",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:403",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 56,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "RUNX3",
+        "description": "RUNX family transcription factor 3",
+        "geneNID": 641
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:56"
+    },
+    "r": {
+      "identity": 1236,
+      "start": 56,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.35,
+        "year": 2004,
+        "source": "MGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1236",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:56",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 378,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "VEGFA",
+        "description": "vascular endothelial growth factor A",
+        "geneNID": 5434
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:378"
+    },
+    "r": {
+      "identity": 1152,
+      "start": 378,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1152",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:378",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 449,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IKZF3",
+        "description": "IKAROS family zinc finger 3",
+        "geneNID": 8192
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:449"
+    },
+    "r": {
+      "identity": 276,
+      "start": 449,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.46,
+        "year": 2014,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:276",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:449",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 407,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL1RL1",
+        "description": "interleukin 1 receptor like 1",
+        "geneNID": 6481
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:407"
+    },
+    "r": {
+      "identity": 1290,
+      "start": 407,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2009,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1290",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:407",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 527,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CFAP298",
+        "description": "cilia and flagella associated protein 298",
+        "geneNID": 11598
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:527"
+    },
+    "r": {
+      "identity": 881,
+      "start": 527,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:881",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:527",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 231,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LPP",
+        "description": "LIM domain containing preferred translocation partner in lipoma",
+        "geneNID": 2926
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:231"
+    },
+    "r": {
+      "identity": 684,
+      "start": 231,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:684",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:231",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 191,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL5",
+        "description": "interleukin 5",
+        "geneNID": 2583
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:191"
+    },
+    "r": {
+      "identity": 569,
+      "start": 191,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.7,
+        "year": 2013,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:569",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:191",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 73,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CHRM1",
+        "description": "cholinergic receptor muscarinic 1",
+        "geneNID": 846
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:73"
+    },
+    "r": {
+      "identity": 102,
+      "start": 73,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.03,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:102",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:73",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 265,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "NTRK1",
+        "description": "neurotrophic receptor tyrosine kinase 1",
+        "geneNID": 3513
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:265"
+    },
+    "r": {
+      "identity": 773,
+      "start": 265,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.22,
+        "year": 2005,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:773",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:265",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 118,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ETS1",
+        "description": "ETS proto-oncogene 1, transcription factor",
+        "geneNID": 1553
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:118"
+    },
+    "r": {
+      "identity": 247,
+      "start": 118,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:247",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:118",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 552,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ADAM33",
+        "description": "ADAM metallopeptidase domain 33",
+        "geneNID": 13201
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:552"
+    },
+    "r": {
+      "identity": 1181,
+      "start": 552,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1181",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:552",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 318,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCL2",
+        "description": "C-C motif chemokine ligand 2",
+        "geneNID": 4581
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:318"
+    },
+    "r": {
+      "identity": 970,
+      "start": 318,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.6,
+        "year": 2009,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:970",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:318",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 571,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "DISP1",
+        "description": "dispatched RND transporter family member 1",
+        "geneNID": 14006
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:571"
+    },
+    "r": {
+      "identity": 1221,
+      "start": 571,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1221",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:571",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 80,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCR4",
+        "description": "C-C motif chemokine receptor 4",
+        "geneNID": 913
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:80"
+    },
+    "r": {
+      "identity": 129,
+      "start": 80,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.28,
+        "year": 2005,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:129",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:80",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 514,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ATG16L1",
+        "description": "autophagy related 16 like 1",
+        "geneNID": 10907
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:514"
+    },
+    "r": {
+      "identity": 844,
+      "start": 514,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:844",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:514",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 189,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL4",
+        "description": "interleukin 4",
+        "geneNID": 2581
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:189"
+    },
+    "r": {
+      "identity": 542,
+      "start": 189,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.6,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:542",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:189",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 201,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL13",
+        "description": "interleukin 13",
+        "geneNID": 2604
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:201"
+    },
+    "r": {
+      "identity": 604,
+      "start": 201,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.7,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:604",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:201",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 130,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "FLG",
+        "description": "filaggrin",
+        "geneNID": 1715
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:130"
+    },
+    "r": {
+      "identity": 285,
+      "start": 130,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.2,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:285",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:130",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 431,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TLR6",
+        "description": "toll like receptor 6",
+        "geneNID": 7415
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:431"
+    },
+    "r": {
+      "identity": 53,
+      "start": 431,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.17,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:53",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:431",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 140,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GATA3",
+        "description": "GATA binding protein 3",
+        "geneNID": 1872
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:140"
+    },
+    "r": {
+      "identity": 350,
+      "start": 140,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:350",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:140",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 704,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LINC02121",
+        "description": "long intergenic non-protein coding RNA 2121",
+        "geneNID": 23956
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:704"
+    },
+    "r": {
+      "identity": 67,
+      "start": 704,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2018,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:67",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:704",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 547,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TBL1XR1",
+        "description": "TBL1X receptor 1",
+        "geneNID": 12870
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:547"
+    },
+    "r": {
+      "identity": 1171,
+      "start": 547,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1171",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:547",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 367,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TNF",
+        "description": "tumor necrosis factor",
+        "geneNID": 5215
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:367"
+    },
+    "r": {
+      "identity": 1092,
+      "start": 367,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2002,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1092",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:367",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 219,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "KDR",
+        "description": "kinase insert domain receptor",
+        "geneNID": 2764
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:219"
+    },
+    "r": {
+      "identity": 649,
+      "start": 219,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.01,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:649",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:219",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 646,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GSDMA",
+        "description": "gasdermin A",
+        "geneNID": 17073
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:646"
+    },
+    "r": {
+      "identity": 377,
+      "start": 646,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.17,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:377",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:646",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 60,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CD40",
+        "description": "CD40 molecule",
+        "geneNID": 715
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:60"
+    },
+    "r": {
+      "identity": 1350,
+      "start": 60,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.25,
+        "year": 2009,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1350",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:60",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 367,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TNF",
+        "description": "tumor necrosis factor",
+        "geneNID": 5215
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:367"
+    },
+    "r": {
+      "identity": 1109,
+      "start": 367,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2009,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1109",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:367",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 523,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GSDMB",
+        "description": "gasdermin B",
+        "geneNID": 11428
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523"
+    },
+    "r": {
+      "identity": 870,
+      "start": 523,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2018,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:870",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 363,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TLR1",
+        "description": "toll like receptor 1",
+        "geneNID": 5193
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:363"
+    },
+    "r": {
+      "identity": 1080,
+      "start": 363,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.14,
+        "year": 2016,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1080",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:363",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 181,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IGES",
+        "description": "immunoglobulin E concentration, serum",
+        "geneNID": 2523
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:181"
+    },
+    "r": {
+      "identity": 513,
+      "start": 181,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.02,
+        "year": 2002,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:513",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:181",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 189,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL4",
+        "description": "interleukin 4",
+        "geneNID": 2581
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:189"
+    },
+    "r": {
+      "identity": 541,
+      "start": 189,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.6,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:541",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:189",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 449,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IKZF3",
+        "description": "IKAROS family zinc finger 3",
+        "geneNID": 8192
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:449"
+    },
+    "r": {
+      "identity": 274,
+      "start": 449,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.46,
+        "year": 2010,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:274",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:449",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 386,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "DDX39B",
+        "description": "DExD-box helicase 39B",
+        "geneNID": 5681
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:386"
+    },
+    "r": {
+      "identity": 1165,
+      "start": 386,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1165",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:386",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 84,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LTB4R",
+        "description": "leukotriene B4 receptor",
+        "geneNID": 920
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:84"
+    },
+    "r": {
+      "identity": 135,
+      "start": 84,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.08,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:135",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:84",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 217,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ITPR3",
+        "description": "inositol 1,4,5-trisphosphate receptor type 3",
+        "geneNID": 2698
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:217"
+    },
+    "r": {
+      "identity": 642,
+      "start": 217,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:642",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:217",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 227,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LGALS3",
+        "description": "galectin 3",
+        "geneNID": 2881
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:227"
+    },
+    "r": {
+      "identity": 679,
+      "start": 227,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.05,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:679",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:227",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 403,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL18R1",
+        "description": "interleukin 18 receptor 1",
+        "geneNID": 6219
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:403"
+    },
+    "r": {
+      "identity": 1272,
+      "start": 403,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.2,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1272",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:403",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 473,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "PITPNC1",
+        "description": "phosphatidylinositol transfer protein cytoplasmic 1",
+        "geneNID": 9150
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:473"
+    },
+    "r": {
+      "identity": 347,
+      "start": 473,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:347",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:473",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 190,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL4R",
+        "description": "interleukin 4 receptor",
+        "geneNID": 2582
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:190"
+    },
+    "r": {
+      "identity": 552,
+      "start": 190,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2002,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:552",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:190",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 272,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "PDE4D",
+        "description": "phosphodiesterase 4D",
+        "geneNID": 3682
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:272"
+    },
+    "r": {
+      "identity": 799,
+      "start": 272,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.47,
+        "year": 2009,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:799",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:272",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 45,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "C3AR1",
+        "description": "complement C3a receptor 1",
+        "geneNID": 529
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:45"
+    },
+    "r": {
+      "identity": 1115,
+      "start": 45,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.25,
+        "year": 2004,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1115",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:45",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 655,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCDC39",
+        "description": "coiled-coil domain containing 39",
+        "geneNID": 17478
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:655"
+    },
+    "r": {
+      "identity": 502,
+      "start": 655,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:502",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:655",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 700,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LINC01063",
+        "description": "long intergenic non-protein coding RNA 1063",
+        "geneNID": 22281
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:700"
+    },
+    "r": {
+      "identity": 46,
+      "start": 700,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:46",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:700",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 460,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CLASP1",
+        "description": "cytoplasmic linker associated protein 1",
+        "geneNID": 8588
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:460"
+    },
+    "r": {
+      "identity": 313,
+      "start": 460,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "CLINVAR"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:313",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:460",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 367,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TNF",
+        "description": "tumor necrosis factor",
+        "geneNID": 5215
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:367"
+    },
+    "r": {
+      "identity": 1094,
+      "start": 367,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2002,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1094",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:367",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 145,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GNAI1",
+        "description": "G protein subunit alpha i1",
+        "geneNID": 1979
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:145"
+    },
+    "r": {
+      "identity": 364,
+      "start": 145,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:364",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:145",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 138,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GAS1",
+        "description": "growth arrest specific 1",
+        "geneNID": 1866
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:138"
+    },
+    "r": {
+      "identity": 345,
+      "start": 138,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:345",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:138",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 232,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LTA4H",
+        "description": "leukotriene A4 hydrolase",
+        "geneNID": 2939
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:232"
+    },
+    "r": {
+      "identity": 691,
+      "start": 232,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.28,
+        "year": 2005,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:691",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:232",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 372,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TNFSF4",
+        "description": "TNF superfamily member 4",
+        "geneNID": 5336
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:372"
+    },
+    "r": {
+      "identity": 1129,
+      "start": 372,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.18,
+        "year": 2004,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1129",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:372",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 417,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "SH3PXD2A",
+        "description": "SH3 and PX domains 2A",
+        "geneNID": 6836
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:417"
+    },
+    "r": {
+      "identity": 1353,
+      "start": 417,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1353",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:417",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 291,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "PRKG1",
+        "description": "protein kinase cGMP-dependent 1",
+        "geneNID": 4025
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:291"
+    },
+    "r": {
+      "identity": 876,
+      "start": 291,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:876",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:291",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 625,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ZFPM1",
+        "description": "zinc finger protein, FOG family member 1",
+        "geneNID": 16054
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:625"
+    },
+    "r": {
+      "identity": 204,
+      "start": 625,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:204",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:625",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 594,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TAGAP",
+        "description": "T cell activation RhoGTPase activating protein",
+        "geneNID": 14805
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:594"
+    },
+    "r": {
+      "identity": 118,
+      "start": 594,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:118",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:594",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 320,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCL11",
+        "description": "C-C motif chemokine ligand 11",
+        "geneNID": 4588
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:320"
+    },
+    "r": {
+      "identity": 981,
+      "start": 320,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.7,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:981",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:320",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 291,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "PRKG1",
+        "description": "protein kinase cGMP-dependent 1",
+        "geneNID": 4025
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:291"
+    },
+    "r": {
+      "identity": 875,
+      "start": 291,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2011,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:875",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:291",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 666,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "NPSR1",
+        "description": "neuropeptide S receptor 1",
+        "geneNID": 17877
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:666"
+    },
+    "r": {
+      "identity": 668,
+      "start": 666,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:668",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:666",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 24,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ANXA2",
+        "description": "annexin A2",
+        "geneNID": 223
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:24"
+    },
+    "r": {
+      "identity": 428,
+      "start": 24,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.02,
+        "year": 2004,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:428",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:24",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 455,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "FBXL7",
+        "description": "F-box and leucine rich repeat protein 7",
+        "geneNID": 8477
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:455"
+    },
+    "r": {
+      "identity": 298,
+      "start": 455,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2014,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:298",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:455",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 573,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCDC65",
+        "description": "coiled-coil domain containing 65",
+        "geneNID": 14096
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:573"
+    },
+    "r": {
+      "identity": 1225,
+      "start": 573,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1225",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:573",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 485,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL22",
+        "description": "interleukin 22",
+        "geneNID": 9885
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:485"
+    },
+    "r": {
+      "identity": 781,
+      "start": 485,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.3,
+        "year": 2011,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:781",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:485",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 190,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL4R",
+        "description": "interleukin 4 receptor",
+        "geneNID": 2582
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:190"
+    },
+    "r": {
+      "identity": 551,
+      "start": 190,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2002,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:551",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:190",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 621,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "SLC5A12",
+        "description": "solute carrier family 5 member 12",
+        "geneNID": 16009
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:621"
+    },
+    "r": {
+      "identity": 199,
+      "start": 621,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:199",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:621",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 407,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL1RL1",
+        "description": "interleukin 1 receptor like 1",
+        "geneNID": 6481
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:407"
+    },
+    "r": {
+      "identity": 1303,
+      "start": 407,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2018,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1303",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:407",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 206,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CXCL10",
+        "description": "C-X-C motif chemokine ligand 10",
+        "geneNID": 2630
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:206"
+    },
+    "r": {
+      "identity": 629,
+      "start": 206,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2007,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:629",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:206",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 492,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CRIM1",
+        "description": "cysteine rich transmembrane BMP regulator 1",
+        "geneNID": 10121
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:492"
+    },
+    "r": {
+      "identity": 792,
+      "start": 492,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2013,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:792",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:492",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 669,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CASC15",
+        "description": "cancer susceptibility 15",
+        "geneNID": 18283
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:669"
+    },
+    "r": {
+      "identity": 683,
+      "start": 669,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:683",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:669",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 351,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TAP2",
+        "description": "transporter 2, ATP binding cassette subfamily B member",
+        "geneNID": 5026
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:351"
+    },
+    "r": {
+      "identity": 1054,
+      "start": 351,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1054",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:351",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 27,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "AREG",
+        "description": "amphiregulin",
+        "geneNID": 287
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:27"
+    },
+    "r": {
+      "identity": 643,
+      "start": 27,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.38,
+        "year": 2005,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:643",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:27",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 673,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IRF1-AS1",
+        "description": "IRF1 antisense RNA 1",
+        "geneNID": 18667
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:673"
+    },
+    "r": {
+      "identity": 737,
+      "start": 673,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:737",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:673",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 523,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GSDMB",
+        "description": "gasdermin B",
+        "geneNID": 11428
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523"
+    },
+    "r": {
+      "identity": 867,
+      "start": 523,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2016,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:867",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 150,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CXCR3",
+        "description": "C-X-C motif chemokine receptor 3",
+        "geneNID": 2032
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:150"
+    },
+    "r": {
+      "identity": 373,
+      "start": 150,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.07,
+        "year": 2005,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:373",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:150",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 52,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CAMP",
+        "description": "cathelicidin antimicrobial peptide",
+        "geneNID": 605
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:52"
+    },
+    "r": {
+      "identity": 1198,
+      "start": 52,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.07,
+        "year": 2005,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1198",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:52",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 614,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LINC01931",
+        "description": "long intergenic non-protein coding RNA 1931",
+        "geneNID": 15779
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:614"
+    },
+    "r": {
+      "identity": 176,
+      "start": 614,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2014,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:176",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:614",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 266,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "OAS2",
+        "description": "2'-5'-oligoadenylate synthetase 2",
+        "geneNID": 3534
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:266"
+    },
+    "r": {
+      "identity": 774,
+      "start": 266,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2017,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:774",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:266",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 236,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "SMAD3",
+        "description": "SMAD family member 3",
+        "geneNID": 2975
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:236"
+    },
+    "r": {
+      "identity": 710,
+      "start": 236,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.16,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:710",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:236",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 187,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL2RA",
+        "description": "interleukin 2 receptor subunit alpha",
+        "geneNID": 2576
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:187"
+    },
+    "r": {
+      "identity": 528,
+      "start": 187,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2007,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:528",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:187",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 234,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LTC4S",
+        "description": "leukotriene C4 synthase",
+        "geneNID": 2947
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:234"
+    },
+    "r": {
+      "identity": 700,
+      "start": 234,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:700",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:234",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 191,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL5",
+        "description": "interleukin 5",
+        "geneNID": 2583
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:191"
+    },
+    "r": {
+      "identity": 570,
+      "start": 191,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.7,
+        "year": 2014,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:570",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:191",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 30,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "RHOA",
+        "description": "ras homolog family member A",
+        "geneNID": 296
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:30"
+    },
+    "r": {
+      "identity": 656,
+      "start": 30,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.22,
+        "year": 2008,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:656",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:30",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 693,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "LINC02660",
+        "description": "long intergenic non-protein coding RNA 2660",
+        "geneNID": 21861
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:693"
+    },
+    "r": {
+      "identity": 37,
+      "start": 693,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2014,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:37",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:693",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 342,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "STAT2",
+        "description": "signal transducer and activator of transcription 2",
+        "geneNID": 4935
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:342"
+    },
+    "r": {
+      "identity": 1032,
+      "start": 342,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.01,
+        "year": 2009,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1032",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:342",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 124,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "FCGR2A",
+        "description": "Fc fragment of IgG receptor IIa",
+        "geneNID": 1633
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:124"
+    },
+    "r": {
+      "identity": 262,
+      "start": 124,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.14,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:262",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:124",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 9,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ADORA1",
+        "description": "adenosine A1 receptor",
+        "geneNID": 98
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:9"
+    },
+    "r": {
+      "identity": 150,
+      "start": 9,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.13,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:150",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:9",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 673,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IRF1-AS1",
+        "description": "IRF1 antisense RNA 1",
+        "geneNID": 18667
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:673"
+    },
+    "r": {
+      "identity": 735,
+      "start": 673,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2018,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:735",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:673",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 636,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "JAZF1",
+        "description": "JAZF zinc finger 1",
+        "geneNID": 16595
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:636"
+    },
+    "r": {
+      "identity": 265,
+      "start": 636,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:265",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:636",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 155,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GSTP1",
+        "description": "glutathione S-transferase pi 1",
+        "geneNID": 2131
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:155"
+    },
+    "r": {
+      "identity": 406,
+      "start": 155,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2004,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:406",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:155",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 540,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IKZF4",
+        "description": "IKAROS family zinc finger 4",
+        "geneNID": 12401
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:540"
+    },
+    "r": {
+      "identity": 998,
+      "start": 540,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2011,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:998",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:540",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 306,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "RAB5B",
+        "description": "RAB5B, member RAS oncogene family",
+        "geneNID": 4230
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:306"
+    },
+    "r": {
+      "identity": 914,
+      "start": 306,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:914",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:306",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 28,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ARG1",
+        "description": "arginase 1",
+        "geneNID": 294
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:28"
+    },
+    "r": {
+      "identity": 652,
+      "start": 28,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2010,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:652",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:28",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 121,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "FCER1A",
+        "description": "Fc fragment of IgE receptor Ia",
+        "geneNID": 1627
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:121"
+    },
+    "r": {
+      "identity": 255,
+      "start": 121,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.06,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:255",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:121",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 130,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "FLG",
+        "description": "filaggrin",
+        "geneNID": 1715
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:130"
+    },
+    "r": {
+      "identity": 290,
+      "start": 130,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.2,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:290",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:130",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 254,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "NFKB2",
+        "description": "nuclear factor kappa B subunit 2",
+        "geneNID": 3421
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:254"
+    },
+    "r": {
+      "identity": 754,
+      "start": 254,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:754",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:254",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 523,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GSDMB",
+        "description": "gasdermin B",
+        "geneNID": 11428
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523"
+    },
+    "r": {
+      "identity": 873,
+      "start": 523,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:873",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 12,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ADRB2",
+        "description": "adrenoceptor beta 2",
+        "geneNID": 112
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:12"
+    },
+    "r": {
+      "identity": 193,
+      "start": 12,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:193",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:12",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 508,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "BNC2",
+        "description": "basonuclin 2",
+        "geneNID": 10712
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:508"
+    },
+    "r": {
+      "identity": 838,
+      "start": 508,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:838",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:508",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 114,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ERBB3",
+        "description": "erb-b2 receptor tyrosine kinase 3",
+        "geneNID": 1524
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:114"
+    },
+    "r": {
+      "identity": 242,
+      "start": 114,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2018,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:242",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:114",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 162,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "HLA-DQA1",
+        "description": "major histocompatibility complex, class II, DQ alpha 1",
+        "geneNID": 2268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:162"
+    },
+    "r": {
+      "identity": 454,
+      "start": 162,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.49,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:454",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:162",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 78,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCR1",
+        "description": "C-C motif chemokine receptor 1",
+        "geneNID": 911
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:78"
+    },
+    "r": {
+      "identity": 125,
+      "start": 78,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.06,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:125",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:78",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 239,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "MICB",
+        "description": "MHC class I polypeptide-related sequence B",
+        "geneNID": 3110
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:239"
+    },
+    "r": {
+      "identity": 719,
+      "start": 239,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:719",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:239",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 28,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "ARG1",
+        "description": "arginase 1",
+        "geneNID": 294
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:28"
+    },
+    "r": {
+      "identity": 651,
+      "start": 28,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.4,
+        "year": 2009,
+        "source": "CTD_human"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:651",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:28",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 667,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCDC103",
+        "description": "coiled-coil domain containing 103",
+        "geneNID": 17952
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:667"
+    },
+    "r": {
+      "identity": 672,
+      "start": 667,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:672",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:667",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 407,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL1RL1",
+        "description": "interleukin 1 receptor like 1",
+        "geneNID": 6481
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:407"
+    },
+    "r": {
+      "identity": 1308,
+      "start": 407,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1308",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:407",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 536,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "BACH2",
+        "description": "BTB domain and CNC homolog 2",
+        "geneNID": 12198
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:536"
+    },
+    "r": {
+      "identity": 938,
+      "start": 536,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.12,
+        "year": 2016,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:938",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:536",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 92,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CSF2RB",
+        "description": "colony stimulating factor 2 receptor subunit beta",
+        "geneNID": 1065
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:92"
+    },
+    "r": {
+      "identity": 165,
+      "start": 92,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.2,
+        "year": 2006,
+        "source": "RGD"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:165",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:92",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 443,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TDRKH",
+        "description": "tudor and KH domain containing",
+        "geneNID": 7942
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:443"
+    },
+    "r": {
+      "identity": 89,
+      "start": 443,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:89",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:443",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 363,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TLR1",
+        "description": "toll like receptor 1",
+        "geneNID": 5193
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:363"
+    },
+    "r": {
+      "identity": 1082,
+      "start": 363,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.14,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1082",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:363",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 422,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "RIPOR2",
+        "description": "RHO family interacting cell polarization regulator 2",
+        "geneNID": 6930
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:422"
+    },
+    "r": {
+      "identity": 1360,
+      "start": 422,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2015,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1360",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:422",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 562,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TTC25",
+        "description": "tetratricopeptide repeat domain 25",
+        "geneNID": 13433
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:562"
+    },
+    "r": {
+      "identity": 1202,
+      "start": 562,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "source": "HPO"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1202",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:562",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 536,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "BACH2",
+        "description": "BTB domain and CNC homolog 2",
+        "geneNID": 12198
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:536"
+    },
+    "r": {
+      "identity": 941,
+      "start": 536,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.12,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:941",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:536",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 523,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "GSDMB",
+        "description": "gasdermin B",
+        "geneNID": 11428
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523"
+    },
+    "r": {
+      "identity": 864,
+      "start": 523,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2012,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:864",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:523",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 201,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL13",
+        "description": "interleukin 13",
+        "geneNID": 2604
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:201"
+    },
+    "r": {
+      "identity": 610,
+      "start": 201,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.7,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:610",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:201",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 397,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "DNAH11",
+        "description": "dynein axonemal heavy chain 11",
+        "geneNID": 6135
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:397"
+    },
+    "r": {
+      "identity": 1244,
+      "start": 397,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.11,
+        "source": "CLINVAR"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1244",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:397",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 357,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "TGFB2",
+        "description": "transforming growth factor beta 2",
+        "geneNID": 5143
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:357"
+    },
+    "r": {
+      "identity": 1072,
+      "start": 357,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.05,
+        "year": 2008,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:1072",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:357",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 322,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "CCL18",
+        "description": "C-C motif chemokine ligand 18",
+        "geneNID": 4594
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:322"
+    },
+    "r": {
+      "identity": 990,
+      "start": 322,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.04,
+        "year": 2006,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:990",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:322",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 184,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IL1R1",
+        "description": "interleukin 1 receptor type 1",
+        "geneNID": 2572
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:184"
+    },
+    "r": {
+      "identity": 523,
+      "start": 184,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.15,
+        "year": 2011,
+        "source": "GWASDB"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:523",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:184",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 164,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "HLA-DQB1",
+        "description": "major histocompatibility complex, class II, DQ beta 1",
+        "geneNID": 2270
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:164"
+    },
+    "r": {
+      "identity": 458,
+      "start": 164,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.5,
+        "year": 2002,
+        "source": "LHGDN"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:458",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:164",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  },
+  {
+    "g": {
+      "identity": 673,
+      "labels": [
+        "Gene"
+      ],
+      "properties": {
+        "name": "IRF1-AS1",
+        "description": "IRF1 antisense RNA 1",
+        "geneNID": 18667
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:673"
+    },
+    "r": {
+      "identity": 738,
+      "start": 673,
+      "end": 0,
+      "type": "ASSOCIATED_WITH",
+      "properties": {
+        "score": 0.1,
+        "year": 2019,
+        "source": "GWASCAT"
+      },
+      "elementId": "5:8cb655f5-e63b-4406-a20a-7e5898157cd7:738",
+      "startNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:673",
+      "endNodeElementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    },
+    "d": {
+      "identity": 0,
+      "labels": [
+        "Disease"
+      ],
+      "properties": {
+        "name": "Asthma",
+        "diseaseNID": 268
+      },
+      "elementId": "4:8cb655f5-e63b-4406-a20a-7e5898157cd7:0"
+    }
+  }
+]
