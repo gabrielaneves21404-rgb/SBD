@@ -1,0 +1,1318 @@
+diseaseNID,diseaseId,diseaseName,type
+3,C0000731,Abdomen distended,phenotype
+4,C0000734,Abdominal mass,phenotype
+6,C0000737,Abdominal Pain,phenotype
+7,C0000744,Abetalipoproteinemia,disease
+8,C0000768,Congenital Abnormality,group
+9,C0000771,"Abnormalities, Drug-Induced",group
+10,C0000772,Multiple congenital anomalies,group
+11,C0000786,Spontaneous abortion,phenotype
+12,C0000809,"Abortion, Habitual",disease
+13,C0000821,Threatened abortion,phenotype
+14,C0000822,"Abortion, Tubal",phenotype
+15,C0000832,Abruptio Placentae,phenotype
+16,C0000833,Abscess,phenotype
+18,C0000880,Acanthamoeba Keratitis,disease
+19,C0000887,Acantholysis,phenotype
+20,C0000889,Acanthosis Nigricans,disease
+21,C0000921,Accidental Falls,phenotype
+22,C0001075,Achlorhydria,phenotype
+24,C0001080,Achondroplasia,disease
+25,C0001122,Acidosis,phenotype
+26,C0001125,"Acidosis, Lactic",phenotype
+27,C0001126,Renal tubular acidosis,phenotype
+28,C0001127,"Acidosis, Respiratory",phenotype
+30,C0001144,Acne Vulgaris,disease
+32,C0001175,Acquired Immunodeficiency Syndrome,group
+33,C0001193,Apert syndrome,disease
+34,C0001197,Acrodermatitis,disease
+35,C0001202,Acrokeratosis,disease
+36,C0001206,Acromegaly,disease
+37,C0001231,"ACTH Syndrome, Ectopic",disease
+38,C0001249,Actinobacillus Infections,disease
+40,C0001306,Acute alcoholic liver disease,disease
+41,C0001308,Acute and subacute liver necrosis (disorder),disease
+43,C0001338,Herpetic Acute Necrotizing Encephalitis,disease
+44,C0001339,Acute pancreatitis,disease
+47,C0001349,Acute-Phase Reaction,phenotype
+50,C0001364,Massive Hepatic Necrosis,phenotype
+51,C0001403,Addison Disease,disease
+53,C0001418,Adenocarcinoma,group
+54,C0001420,Papillary adenocarcinoma,disease
+56,C0001429,Adenolymphoma,disease
+57,C0001430,Adenoma,group
+61,C0001486,Adenovirus Infections,group
+63,C0001511,Tissue Adhesions,phenotype
+66,C0001546,Adjustment Disorders,group
+67,C0001576,Adnexal Diseases,group
+68,C0001614,Adrenal Cortex Diseases,group
+69,C0001618,Tumors of Adrenal Cortex,group
+70,C0001621,Adrenal Gland Diseases,group
+72,C0001623,Adrenal gland hypofunction,phenotype
+73,C0001624,Adrenal Gland Neoplasms,group
+74,C0001627,Congenital adrenal hyperplasia,disease
+75,C0001630,Adrenal Rest Tumor,disease
+77,C0001723,"Affective Disorders, Psychotic",group
+79,C0001733,Afibrinogenemia,disease
+80,C0001752,African swine fever,disease
+81,C0001768,Agammaglobulinemia,disease
+82,C0001787,"Osteoporosis, Age-Related",disease
+83,C0001807,Aggressive behavior,phenotype
+84,C0001811,Aging,phenotype
+85,C0001815,Primary Myelofibrosis,disease
+86,C0001816,Agnosia,disease
+87,C0001818,Agoraphobia,disease
+88,C0001824,Agranulocytosis,disease
+90,C0001828,Agricultural Workers' Diseases,group
+91,C0001849,AIDS Dementia Complex,disease
+92,C0001857,AIDS related complex,disease
+93,C0001883,Airway Obstruction,group
+94,C0001889,Akinetic Mutism,disease
+95,C0001890,Akinetic Petit Mal,disease
+96,C0001916,Albinism,disease
+97,C0001925,Albuminuria,phenotype
+98,C0001948,Alcohol consumption,phenotype
+99,C0001956,Alcohol Use Disorder,disease
+100,C0001957,Alcohol Withdrawal Delirium,disease
+101,C0001969,Alcoholic Intoxication,disease
+102,C0001973,"Alcoholic Intoxication, Chronic",disease
+104,C0002018,Alexia,disease
+106,C0002063,Alkalosis,phenotype
+107,C0002064,"Alkalosis, Respiratory",phenotype
+108,C0002066,Alkaptonuria,disease
+109,C0002103,Atopic rhinitis,disease
+111,C0002152,Alloxan Diabetes,disease
+112,C0002170,Alopecia,disease
+113,C0002171,Alopecia Areata,disease
+114,C0002312,alpha-Thalassemia,disease
+115,C0002351,Altitude Sickness,phenotype
+116,C0002382,Alveolar Bone Loss,disease
+117,C0002390,Extrinsic allergic alveolitis,group
+118,C0002395,Alzheimer's Disease,disease
+119,C0002418,Amblyopia,phenotype
+120,C0002438,Amebiasis,disease
+122,C0002448,Ameloblastoma,disease
+123,C0002452,Amelogenesis Imperfecta,disease
+124,C0002453,Amenorrhea,phenotype
+125,C0002514,"Amino Acid Metabolism, Inborn Errors",group
+126,C0002534,Renal Aminoacidurias,group
+127,C0002622,Amnesia,disease
+129,C0002624,Retrograde amnesia,disease
+130,C0002625,Amnestic Disorder,disease
+131,C0002631,Infection of amniotic cavity,disease
+133,C0002726,Amyloidosis,disease
+134,C0002735,Oppenheim's Disease,disease
+135,C0002736,Amyotrophic Lateral Sclerosis,disease
+136,C0002768,Congenital Pain Insensitivity,disease
+137,C0002792,anaphylaxis,phenotype
+138,C0002793,Anaplasia,disease
+139,C0002797,Bovine Anaplasmosis,disease
+141,C0002871,Anemia,disease
+143,C0002874,Aplastic Anemia,disease
+144,C0002875,Cooley's anemia,disease
+145,C0002876,Congenital dyserythropoietic anemia,disease
+146,C0002878,"Anemia, Hemolytic",disease
+147,C0002879,"Anemia, Hemolytic, Acquired",disease
+148,C0002880,Autoimmune hemolytic anemia,disease
+149,C0002881,"Anemia, Hemolytic, Congenital",disease
+150,C0002882,"Anemia, Hemolytic, Congenital Nonspherocytic",disease
+151,C0002883,"Anemia, Hemolytic, Idiopathic Acquired",disease
+152,C0002884,Hypochromic anemia,disease
+153,C0002886,"Anemia, Macrocytic",disease
+154,C0002888,"Anemia, Megaloblastic",disease
+155,C0002889,"Anemia, Microangiopathic",disease
+157,C0002891,"Anemia, Neonatal",disease
+158,C0002892,"Anemia, Pernicious",disease
+159,C0002893,Refractory anemias,disease
+160,C0002894,Refractory anaemia with excess blasts,disease
+161,C0002895,"Anemia, Sickle Cell",disease
+162,C0002896,Sideroblastic anemia,disease
+163,C0002897,"Anemia, Splenic",disease
+164,C0002902,Anencephaly,disease
+165,C0002938,Aneuploidy,phenotype
+166,C0002940,Aneurysm,disease
+167,C0002949,"Aneurysm, Dissecting",disease
+168,C0002957,Anger,phenotype
+170,C0002962,Angina Pectoris,phenotype
+171,C0002963,"Angina Pectoris, Variant",disease
+172,C0002965,"Angina, Unstable",disease
+173,C0002982,Angioid Streaks,disease
+174,C0002985,Angiokeratoma,disease
+175,C0002986,Fabry Disease,disease
+177,C0002991,Cutaneous Fibrous Histiocytoma,disease
+179,C0002994,Angioedema,phenotype
+180,C0003028,Anhidrosis,disease
+181,C0003076,Aniridia,disease
+183,C0003079,Anisocoria,phenotype
+184,C0003081,Anisometropia,disease
+185,C0003089,Ankylosing spondylitis and other inflammatory spondylopathies,disease
+186,C0003090,Ankylosis,phenotype
+187,C0003113,Anomia,disease
+188,C0003119,Anophthalmos,disease
+189,C0003123,Anorexia,disease
+190,C0003125,Anorexia Nervosa,disease
+191,C0003126,Anosmia,phenotype
+192,C0003128,Anovulation,phenotype
+193,C0003129,Anoxemia,phenotype
+194,C0003130,Anoxia,phenotype
+195,C0003132,Anoxic Encephalopathy,phenotype
+197,C0003165,Anthracosis,disease
+198,C0003175,Anthrax disease,disease
+200,C0003257,Antibody Deficiency Syndrome,disease
+201,C0003431,Antisocial Personality Disorder,disease
+202,C0003460,Anuria,phenotype
+203,C0003463,Anus Neoplasms,group
+204,C0003466,"Anus, Imperforate",disease
+205,C0003467,Anxiety,disease
+206,C0003469,Anxiety Disorders,group
+207,C0003477,Separation Anxiety Disorder,disease
+208,C0003486,Aortic Aneurysm,disease
+209,C0003492,Aortic coarctation,disease
+210,C0003493,Aortic Diseases,group
+211,C0003496,Aortic Rupture,disease
+212,C0003499,Supravalvular aortic stenosis,disease
+213,C0003504,Aortic Valve Insufficiency,disease
+214,C0003507,Aortic Valve Stenosis,disease
+216,C0003510,Aortitis Syndrome,disease
+219,C0003537,Aphasia,disease
+220,C0003546,"Aphasia, Acquired",disease
+221,C0003550,Broca Aphasia,disease
+222,C0003564,Aphonia,phenotype
+223,C0003578,Apnea,phenotype
+225,C0003615,Appendicitis,disease
+226,C0003621,Appetite Disorders,group
+227,C0003635,Apraxias,group
+229,C0003706,Arachnodactyly,disease
+231,C0003723,Arbovirus Infections,group
+232,C0003742,Arcus Senilis,disease
+233,C0003756,Arenaviridae Infections,group
+234,C0003803,Arnold Chiari Malformation,disease
+235,C0003810,Sertoli-Leydig cell tumor of ovary,disease
+236,C0003811,Cardiac Arrhythmia,phenotype
+238,C0003838,Arterial Occlusive Diseases,group
+239,C0003850,Arteriosclerosis,disease
+240,C0003851,Arteriosclerosis Obliterans,disease
+241,C0003855,Arteriovenous fistula,phenotype
+242,C0003857,Congenital arteriovenous malformation,disease
+243,C0003860,Arteritis,phenotype
+244,C0003862,Arthralgia,phenotype
+245,C0003864,Arthritis,disease
+246,C0003865,"Arthritis, Adjuvant-Induced",disease
+247,C0003868,"Arthritis, Gouty",disease
+248,C0003869,"Arthritis, Infectious",group
+249,C0003872,"Arthritis, Psoriatic",disease
+250,C0003873,Rheumatoid Arthritis,disease
+251,C0003875,"Arthritis, Viral",disease
+252,C0003886,Arthrogryposis,disease
+253,C0003892,Neurogenic arthropathy,disease
+254,C0003907,Arthus Reaction,disease
+256,C0003944,As If Personality,disease
+257,C0003949,Asbestosis,disease
+259,C0003962,Ascites,phenotype
+260,C0003969,Ascorbic Acid Deficiency,disease
+261,C0004030,Aspergillosis,disease
+262,C0004031,"Aspergillosis, Allergic Bronchopulmonary",disease
+263,C0004044,Asphyxia,phenotype
+264,C0004045,Asphyxia Neonatorum,disease
+265,C0004048,Inspiration function,phenotype
+267,C0004093,Asthenia,phenotype
+268,C0004096,Asthma,disease
+269,C0004099,"Asthma, Exercise-Induced",disease
+270,C0004106,Astigmatism,disease
+271,C0004114,Astrocytoma,disease
+272,C0004134,Ataxia,phenotype
+273,C0004135,Ataxia Telangiectasia,disease
+274,C0004138,"Ataxias, Hereditary",disease
+275,C0004144,Atelectasis,phenotype
+276,C0004153,Atherosclerosis,disease
+277,C0004158,Athetosis,phenotype
+278,C0004238,Atrial Fibrillation,disease
+279,C0004239,Atrial Flutter,phenotype
+280,C0004245,Atrioventricular Block,disease
+283,C0004310,Auditory Perceptual Disorders,group
+284,C0004331,Auriculo-Ventricular Dissociation,phenotype
+285,C0004352,Autistic Disorder,disease
+286,C0004364,Autoimmune Diseases,group
+287,C0004368,Autoimmune state,phenotype
+288,C0004403,Autosome Abnormalities,group
+289,C0004426,"Sarcoma, Avian",disease
+290,C0004444,Avoidant Personality Disorder,phenotype
+291,C0004509,Azoospermia,disease
+292,C0004565,"Melanoma, B16",disease
+294,C0004604,Back Pain,phenotype
+296,C0004608,Retinopathy background,disease
+297,C0004610,Bacteremia,disease
+298,C0004623,Bacterial Infections,group
+299,C0004626,"Pneumonia, Bacterial",group
+300,C0004659,Bacteriuria,phenotype
+302,C0004681,Bagassosis,disease
+303,C0004698,Balkan Nephropathy,disease
+304,C0004712,Balo's Concentric Sclerosis,disease
+305,C0004763,Barrett Esophagus,disease
+307,C0004775,Bartter Disease,disease
+308,C0004779,Basal Cell Nevus Syndrome,disease
+309,C0004782,Basal Ganglia Diseases,group
+310,C0004903,Beckwith-Wiedemann Syndrome,disease
+311,C0004930,Behavior Disorders,group
+312,C0004936,Mental disorders,group
+314,C0004943,Behcet Syndrome,disease
+319,C0005001,Benign prostatic hypertrophy,phenotype
+321,C0005129,Bernard-Soulier Syndrome,disease
+322,C0005136,Berry Aneurysm,disease
+323,C0005138,Berylliosis,disease
+325,C0005283,beta Thalassemia,disease
+326,C0005395,Bile Duct Diseases,group
+327,C0005396,Bile Duct Neoplasms,group
+328,C0005398,"Cholestasis, Extrahepatic",disease
+329,C0005403,Bile Reflux,disease
+330,C0005411,Biliary Atresia,disease
+332,C0005426,Biliary Tract Neoplasm,disease
+333,C0005586,Bipolar Disorder,disease
+334,C0005587,"Depression, Bipolar",disease
+335,C0005612,Birth Weight,phenotype
+336,C0005683,Urinary Bladder Calculi (disorder),disease
+337,C0005684,Malignant neoplasm of urinary bladder,disease
+338,C0005686,Urinary Bladder Diseases,group
+339,C0005689,Bladder Exstrophy,disease
+340,C0005694,Bladder neck obstruction,disease
+341,C0005695,Bladder Neoplasm,disease
+342,C0005697,Neurogenic Urinary Bladder,disease
+343,C0005699,Blast Phase,disease
+346,C0005741,Blepharitis,disease
+347,C0005742,Blepharochalasis,disease
+348,C0005744,Blepharophimosis,disease
+349,C0005745,Blepharoptosis,disease
+350,C0005747,Blepharospasm,disease
+352,C0005754,Congenital blindness,disease
+353,C0005758,Bulla,phenotype
+354,C0005779,Blood Coagulation Disorders,group
+356,C0005818,Blood Platelet Disorders,group
+357,C0005823,Blood Pressure,phenotype
+358,C0005833,Blood Sedimentation,phenotype
+359,C0005845,Blood urea nitrogen measurement,phenotype
+360,C0005848,Blood Viscosity,phenotype
+361,C0005859,Bloom Syndrome,disease
+365,C0005890,Body Height,phenotype
+395,C0006118,Brain Neoplasms,group
+397,C0006142,Malignant neoplasm of breast,disease
+448,C0007097,Carcinoma,group
+465,C0007131,Non-Small Cell Lung Carcinoma,disease
+475,C0007193,"Cardiomyopathy, Dilated",group
+476,C0007194,Hypertrophic Cardiomyopathy,disease
+477,C0007196,Restrictive cardiomyopathy,disease
+515,C0007789,Cerebral Palsy,disease
+536,C0007965,Chediak-Higashi Syndrome,disease
+581,C0008519,Ectopic Tissue,phenotype
+584,C0008525,Choroideremia,disease
+586,C0008533,Hemophilia B,disease
+603,C0008780,Ciliary Motility Disorders,group
+608,C0008928,Cleidocranial Dysplasia,disease
+637,C0009402,Colorectal Carcinoma,disease
+638,C0009404,Colorectal Neoplasms,group
+639,C0009405,Hereditary Nonpolyposis Colorectal Neoplasms,group
+678,C0010036,Corneal dystrophy,disease
+696,C0010278,Craniosynostosis,disease
+699,C0010324,"Crigler Najjar syndrome, type 1",disease
+707,C0010417,Cryptorchidism,disease
+721,C0010674,Cystic Fibrosis,disease
+723,C0010691,Cystinuria,disease
+740,C0011195,Dejerine-Sottas Disease (disorder),disease
+794,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",disease
+811,C0012236,DiGeorge Syndrome,disease
+849,C0013264,"Muscular Dystrophy, Duchenne",disease
+861,C0013364,"Dysautonomia, Familial",disease
+880,C0013421,Dystonia,phenotype
+912,C0013903,Ellis-Van Creveld Syndrome,disease
+976,C0014548,"Epilepsy, Generalized",disease
+1025,C0015306,Hereditary Multiple Exostoses,disease
+1049,C0015499,Hereditary Factor V Deficiency,disease
+1050,C0015503,Factor VII Deficiency,disease
+1051,C0015519,Factor X Deficiency,disease
+1052,C0015523,Hereditary Factor XI Deficiency,disease
+1058,C0015625,Fanconi Anemia,disease
+1134,C0016751,Hereditary fructose intolerance syndrome,disease
+1138,C0016788,Fucosidase Deficiency Disease,disease
+1140,C0016842,Congenital pectus excavatum,disease
+1164,C0017205,Gaucher Disease,disease
+1172,C0017495,Gerstmann-Straussler-Scheinker Disease,disease
+1177,C0017551,Gilbert Disease (disorder),disease
+1212,C0017919,Glycogen Storage Disease,group
+1213,C0017920,Glycogen Storage Disease Type I,disease
+1214,C0017921,Glycogen storage disease type II,disease
+1215,C0017922,Glycogen Storage Disease Type III,disease
+1216,C0017923,Glycogen Storage Disease Type IV,disease
+1217,C0017924,Glycogen Storage Disease Type V,disease
+1267,C0018553,"Hamartoma Syndrome, Multiple",disease
+1287,C0018798,Congenital Heart Defects,group
+1334,C0019045,Hemoglobinopathies,group
+1342,C0019069,Hemophilia A,disease
+1368,C0019202,Hepatolenticular Degeneration,disease
+1402,C0019562,Von Hippel-Lindau Syndrome,disease
+1403,C0019569,Hirschsprung Disease,disease
+1418,C0019880,Homocystinuria,disease
+1423,C0020071,"Hereditary Sensory Autonomic Neuropathy, Type 1",disease
+1425,C0020074,HSAN Type IV,disease
+1453,C0020445,"Hypercholesterolemia, Familial",disease
+1459,C0020456,Hyperglycemia,disease
+1477,C0020501,Primary Hyperoxaluria,disease
+1524,C0020630,Hypophosphatasia,disease
+1562,C0021171,Bloch Sulzberger syndrome,disease
+1612,C0022336,Creutzfeldt-Jakob disease,disease
+1615,C0022350,"Jaundice, Chronic Idiopathic",disease
+1620,C0022387,Jervell-Lange Nielsen Syndrome,disease
+1640,C0022595,Keratosis Follicularis,disease
+1657,C0022716,Menkes Kinky Hair Syndrome,disease
+1668,C0022821,Kyphosis deformity of spine,phenotype
+1706,C0023264,Leigh Disease,disease
+1722,C0023374,Lesch-Nyhan Syndrome,disease
+1741,C0023467,"Leukemia, Myelocytic, Acute",disease
+1762,C0023521,Globoid cell leukodystrophy,disease
+1763,C0023522,"Leukodystrophy, Metachromatic",disease
+1780,C0023786,Mucopolysaccharidosis I,disease
+1789,C0023817,Hyperlipoproteinemia Type I,disease
+1805,C0023931,Lobstein Disease,disease
+1807,C0023976,Long QT Syndrome,disease
+1873,C0024591,Malignant hyperpyrexia due to anesthesia,disease
+1887,C0024776,Maple Syrup Urine Disease,disease
+1891,C0024796,Marfan Syndrome,disease
+1915,C0025149,Medulloblastoma,disease
+1922,C0025202,melanoma,disease
+1928,C0025221,Meleda Disease,disease
+1936,C0025267,Multiple Endocrine Neoplasia Type 1,disease
+1937,C0025268,Multiple Endocrine Neoplasia Type 2a,disease
+1938,C0025269,Multiple Endocrine Neoplasia Type 2b,disease
+1984,C0026106,Mild Mental Retardation,disease
+2008,C0026650,Movement Disorders,group
+2014,C0026697,Mucolipidoses,disease
+2016,C0026705,Mucopolysaccharidosis II,disease
+2017,C0026706,Mucopolysaccharidosis III,disease
+2018,C0026707,Mucopolysaccharidosis IV,disease
+2020,C0026709,Mucopolysaccharidosis VI,disease
+2032,C0026827,Muscle hypotonia,phenotype
+2036,C0026847,Spinal Muscular Atrophy,disease
+2075,C0027127,Myotonia Congenita,disease
+2080,C0027341,Nail-Patella Syndrome,disease
+2107,C0027651,Neoplasms,group
+2119,C0027672,"Neoplastic Syndromes, Hereditary",group
+2124,C0027708,Nephroblastoma,disease
+2147,C0027831,Neurofibromatosis 1,disease
+2148,C0027832,Neurofibromatosis 2,disease
+2153,C0027868,Neuromuscular Diseases,group
+2155,C0027877,Neuronal Ceroid-Lipofuscinoses,disease
+2175,C0028326,Noonan Syndrome,disease
+2182,C0028754,Obesity,disease
+2194,C0028860,Oculocerebrorenal Syndrome,disease
+2246,C0029422,Osteochondrodysplasias,group
+2323,C0030360,Papillon-Lefevre Disease,disease
+2326,C0030421,Paraganglioma,disease
+2390,C0031069,Familial Mediterranean Fever,disease
+2410,C0031269,Peutz-Jeghers Syndrome,disease
+2418,C0031511,Pheochromocytoma,disease
+2469,C0032339,Rothmund-Thomson syndrome,disease
+2480,C0032580,Adenomatous Polyposis Coli,disease
+2554,C0033835,Pseudopseudohypoparathyroidism,disease
+2559,C0033847,Pseudoxanthoma Elasticum,disease
+2625,C0034960,Refsum Disease,disease
+2668,C0035334,Retinitis Pigmentosa,disease
+2669,C0035335,Retinoblastoma,disease
+2674,C0035372,Rett Syndrome,disease
+2698,C0035828,Romano-Ward Syndrome,disease
+2759,C0036572,Seizures,phenotype
+2811,C0037231,Sjogren-Larsson Syndrome,disease
+2841,C0037772,Spastic Paraplegia,disease
+2958,C0039292,Tangier Disease,disease
+2960,C0039373,Tay-Sachs Disease,disease
+2961,C0039445,Hereditary hemorrhagic telangiectasia,disease
+2972,C0039585,Androgen-Insensitivity Syndrome,disease
+2976,C0039685,Tetralogy of Fallot,disease
+2985,C0040015,Thrombasthenia,disease
+2987,C0040028,"Thrombocythemia, Essential",disease
+3082,C0041341,Tuberous Sclerosis,disease
+3201,C0043116,HMN (Hereditary Motor Neuropathy) Proximal Type I,disease
+3202,C0043119,Werner Syndrome,disease
+3209,C0043194,Wiskott-Aldrich Syndrome,disease
+3212,C0043208,Wolman Disease,disease
+3216,C0043346,Xeroderma Pigmentosum,disease
+3229,C0078918,"Albinism, Oculocutaneous",disease
+3239,C0079153,"Hyperkeratosis, Epidermolytic",disease
+3245,C0079294,Epidermolysis Bullosa Dystrophica,disease
+3246,C0079295,Epidermolysis Bullosa Herpetiformis Dowling-Meara,disease
+3249,C0079299,Epidermolysis Bullosa Simplex Kobner,disease
+3252,C0079474,Hallopeau-Siemens Disease,disease
+3259,C0079588,"Ichthyosis, X-Linked",disease
+3262,C0079683,Herlitz Disease,disease
+3280,C0080024,Piebaldism,disease
+3290,C0080333,Weber-Cockayne Syndrome,disease
+3300,C0085106,Familial benign pemphigus,disease
+3302,C0085110,Severe Combined Immunodeficiency,disease
+3306,C0085131,Gangliosidosis GM1,disease
+3330,C0085280,Alagille Syndrome,disease
+3340,C0085390,Li-Fraumeni Syndrome,disease
+3351,C0085413,"Polycystic Kidney, Autosomal Dominant",disease
+3363,C0085548,Autosomal Recessive Polycystic Kidney Disease,disease
+3437,C0085859,Polyglandular Type I Autoimmune Syndrome,disease
+3464,C0086431,Hurler-Scheie Syndrome,disease
+3483,C0086647,Mucopolysaccharidosis Type IIIA,disease
+3484,C0086648,MPS III B,disease
+3487,C0086651,"Mucopolysaccharidosis, MPS-IV-A",disease
+3488,C0086652,Mucopolysaccharidosis type IVB,disease
+3497,C0086795,Pfaundler-Hurler Syndrome,disease
+3744,C0152109,Juvenile Spinal Muscular Atrophy,disease
+3762,C0152200,Achromatopsia,disease
+4132,C0158252,Intervertebral disc disorder,group
+4200,C0162309,Adrenoleukodystrophy,disease
+4205,C0162359,Christ-Siemens-Touraine syndrome,disease
+4206,C0162361,Hidrotic Ectodermal Dysplasia,disease
+4215,C0162530,"Porphyria, Erythropoietic",disease
+4217,C0162532,Variegate Porphyria,disease
+4223,C0162565,Acute intermittent porphyria,disease
+4224,C0162566,Porphyria Cutanea Tarda,disease
+4237,C0162671,MELAS Syndrome,disease
+4271,C0175694,Smith-Lemli-Opitz Syndrome,disease
+4274,C0175699,Saethre-Chotzen Syndrome,disease
+4276,C0175701,Aarskog syndrome,disease
+4391,C0205711,Pelizaeus-Merzbacher Disease,disease
+4392,C0205713,Roussy-Levy Syndrome (disorder),disease
+4436,C0206115,WAGR Syndrome,disease
+4454,C0206307,Canavan Disease,disease
+4543,C0206711,Pilomatrixoma,disease
+4599,C0220658,Pfeiffer Syndrome,disease
+4602,C0220663,"BLEPHAROPHIMOSIS, PTOSIS, AND EPICANTHUS INVERSUS (disorder)",disease
+4605,C0220668,Congenital contractural arachnodactyly,disease
+4608,C0220685,Achondrogenesis type 2,disease
+4615,C0220701,RETINITIS PIGMENTOSA 1,disease
+4619,C0220710,Medium-chain acyl-coenzyme A dehydrogenase deficiency,disease
+4625,C0220726,Diastrophic dysplasia,disease
+4629,C0220748,Cartilage-hair hypoplasia,disease
+4630,C0220754,Biotinidase Deficiency,disease
+4631,C0220756,"Niemann-Pick Disease, Type C",disease
+4662,C0221023,Cyclic neutropenia,disease
+4664,C0221026,X-linked agammaglobulinemia,disease
+4676,C0221054,Welander Distal Myopathy,disease
+4677,C0221055,Paramyotonia Congenita (disorder),disease
+4772,C0221757,alpha 1-Antitrypsin Deficiency,disease
+5184,C0236642,Pick Disease of the Brain,disease
+5242,C0238052,"Xanthomatosis, Cerebrotendinous",disease
+5272,C0238198,Gastrointestinal Stromal Tumors,group
+5284,C0238286,Mucolipidosis Type IV,disease
+5294,C0238339,Hereditary pancreatitis,disease
+5296,C0238357,Hyperkalemic periodic paralysis,disease
+5305,C0238402,Pycnodysostosis,disease
+5320,C0238462,Medullary carcinoma of thyroid,disease
+5552,C0242292,McCune-Albright Syndrome,disease
+5567,C0242387,Mandibulofacial Dysostosis,disease
+5910,C0265216,X-linked hydrocephalus syndrome,disease
+5913,C0265220,Pallister-Hall syndrome,disease
+5914,C0265221,Walker-Warburg congenital muscular dystrophy,disease
+5931,C0265252,Coffin-Lowry syndrome,disease
+5939,C0265264,Holt-Oram syndrome,disease
+5941,C0265267,Congenital Hemidysplasia with Ichthyosiform Erythroderma and Limb Defects,disease
+5945,C0265274,"Achondrogenesis, type IB (disorder)",disease
+5960,C0265295,Jansen type metaphyseal chondrodysplasia,disease
+5962,C0265306,Greig cephalopolysyndactyly syndrome,disease
+5963,C0265308,Baller-Gerold syndrome,disease
+5964,C0265309,Leri-Weill dyschondrosteosis,disease
+5976,C0265336,Senter syndrome,disease
+5981,C0265343,Jarcho-Levin syndrome,disease
+5983,C0265345,Lymphedema distichiasis syndrome,disease
+6068,C0265964,Mutilating keratoderma,disease
+6069,C0265965,Dyskeratosis Congenita,disease
+6081,C0266004,"Knuckle pads, leuconychia and sensorineural deafness",disease
+6188,C0266526,Norrie disease,disease
+6356,C0268117,"Gout, HPRT-Related",disease
+6357,C0268118,"Xanthinuria, Type I",disease
+6359,C0268120,Adenine phosphoribosyltransferase deficiency,disease
+6364,C0268126,Adenylosuccinate lyase deficiency (disorder),disease
+6368,C0268135,"Xeroderma pigmentosum, group A",disease
+6370,C0268138,"Xeroderma Pigmentosum, Complementation Group D",disease
+6371,C0268140,"Xeroderma pigmentosum, group F",disease
+6372,C0268141,"Xeroderma pigmentosum, group G",disease
+6373,C0268146,Glucose-6-phosphate transport defect,disease
+6375,C0268149,Glycogen storage disease type X,disease
+6376,C0268151,Classical galactosemia,disease
+6378,C0268155,Deficiency of galactokinase,disease
+6382,C0268164,"Primary hyperoxaluria, type I",disease
+6383,C0268165,Primary hyperoxaluria type 2,disease
+6386,C0268186,Congenital glucose-galactose malabsorption,disease
+6388,C0268193,NADH cytochrome B5 reductase deficiency,disease
+6395,C0268225,Aspartylglucosaminuria,phenotype
+6396,C0268226,Type I Mucolipidosis,disease
+6398,C0268233,GALACTOSIALIDOSIS,disease
+6399,C0268237,Cytochrome-c Oxidase Deficiency,disease
+6402,C0268242,"Niemann-Pick Disease, Type A",disease
+6403,C0268243,"Niemann-Pick Disease, Type B",disease
+6406,C0268250,"Gaucher Disease, Type 2 (disorder)",disease
+6409,C0268255,Farber Lipogranulomatosis,disease
+6410,C0268262,Metachromatic Leukodystrophy due to Saposin B Deficiency,disease
+6412,C0268271,"Gangliosidosis, Generalized GM1, Type 1 (disorder)",disease
+6413,C0268272,"Gangliosidosis, Generalized GM1, Type 2",disease
+6414,C0268273,"Gangliosidosis, Generalized GM1, Type 3",disease
+6421,C0268285,"Adrenal hyperplasia, congenital, type 5",disease
+6425,C0268292,Congenital adrenal hyperplasia due to 11-Beta-hydroxylase deficiency,disease
+6426,C0268293,Corticosterone Methyl Oxidase Type I Deficiency,disease
+6427,C0268296,17-Hydroxysteroid Dehydrogenase Deficiency,disease
+6428,C0268297,Pseudovaginal Perineoscrotal Hypospadias,disease
+6429,C0268301,Reifenstein Syndrome,disease
+6437,C0268328,Porphobilinogen synthase deficiency,disease
+6441,C0268338,"Ehlers-Danlos Syndrome, Type IV",disease
+6443,C0268342,Ehlers-Danlos syndrome type 6,disease
+6450,C0268354,De Barsy syndrome,disease
+6454,C0268358,"Osteogenesis imperfecta, dominant perinatal lethal",disease
+6456,C0268362,Osteogenesis imperfecta type III (disorder),disease
+6461,C0268374,Adult junctional epidermolysis bullosa (disorder),disease
+6482,C0268412,Infantile hypophosphatasia,disease
+6483,C0268413,Adult hypophosphatasia (disorder),disease
+6496,C0268448,Primary hypomagnesemia (disorder),disease
+6497,C0268450,Gitelman Syndrome,disease
+6502,C0268465,Phenylketonuria II,disease
+6503,C0268467,"Hyperphenylalaninemia, BH4-Deficient, B",disease
+6509,C0268490,"Tyrosinemia, Type I",disease
+6512,C0268495,Oculocutaneous albinism type 2,disease
+6528,C0268540,HHH syndrome,disease
+6529,C0268542,Ornithine carbamoyltransferase deficiency,disease
+6531,C0268547,Argininosuccinic Aciduria,disease
+6532,C0268548,Hyperargininemia,phenotype
+6540,C0268563,Sarcosinemia,phenotype
+6545,C0268575,Isovaleryl-CoA dehydrogenase deficiency,disease
+6547,C0268579,Propionic acidemia,disease
+6548,C0268581,Holocarboxylase Synthetase Deficiency,disease
+6549,C0268583,Methylmalonic acidemia,phenotype
+6551,C0268595,"Glutaric aciduria, type 1",disease
+6553,C0268600,3-methylcrotonyl CoA carboxylase 1 deficiency,disease
+6554,C0268601,HMG CoA lyase deficiency,disease
+6564,C0268621,Hepatic methionine adenosyltransferase deficiency,disease
+6565,C0268623,"Tyrosinemia, Type III",disease
+6567,C0268626,Juvenile nephropathic cystinosis (disorder),disease
+6569,C0268631,succinic semialdehyde dehydrogenase deficiency,disease
+6577,C0268647,Lysinuric Protein Intolerance,disease
+6581,C0268689,"Vitamin D-dependent rickets, type 1",disease
+6638,C0270210,Lucey-Driscoll syndrome (disorder),disease
+6672,C0270726,Alexander Disease,disease
+6713,C0270911,"Charcot-Marie-Tooth Disease, Type Ia (disorder)",disease
+6714,C0270912,"Charcot-Marie-Tooth Disease, Type Ib",disease
+6716,C0270914,Hereditary Motor and Sensory-Neuropathy Type II,disease
+6719,C0270922,Peripheral demyelinating neuropathy,disease
+6752,C0271093,Stargardt's disease,phenotype
+6753,C0271097,Usher Syndrome,disease
+6815,C0271568,Laron Syndrome,disease
+6820,C0271583,"ACTH Deficiency, Isolated",disease
+6846,C0271695,Rabson-Mendenhall Syndrome,disease
+6860,C0271742,Glucocorticoid deficiency with achalasia,disease
+6865,C0271789,"Hypothyroidism, Congenital, Nongoitrous, 4",disease
+6874,C0271829,Pendred's syndrome,disease
+6916,C0272087,Congenital Methemoglobinemia,disease
+7466,C0282102,"Chondrodysplasia punctata, X-linked dominant type",disease
+7482,C0282527,Infantile Refsum Disease (disorder),disease
+7554,C0311338,Fundus Albipunctatus,disease
+7897,C0338451,Frontotemporal dementia,disease
+7916,C0338503,Septo-Optic Dysplasia,disease
+7919,C0338508,Optic Atrophy 1,disease
+7958,C0339277,"Corneal Dystrophy, Juvenile Epithelial of Meesmann",disease
+7959,C0339278,Reis-Bucklers' corneal dystrophy,disease
+7985,C0339510,Vitelliform Macular Dystrophy,disease
+7990,C0339527,Leber Congenital Amaurosis,disease
+7994,C0339535,"Night blindness, congenital stationary",disease
+7997,C0339541,Goldmann-Favre syndrome (disorder),disease
+8002,C0339573,"Glaucoma, Primary Open Angle",disease
+8040,C0339985,Idiopathic bronchiectasis,disease
+8132,C0340968,Deficiency of pyruvate kinase,disease
+8136,C0340978,May-Hegglin anomaly,phenotype
+8214,C0342194,Thyroid Dyshormonogenesis 3,disease
+8225,C0342276,Maturity onset diabetes mellitus in young,disease
+8226,C0342277,Diabetes mellitus autosomal dominant type II (disorder),disease
+8227,C0342278,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",disease
+8228,C0342282,Multiple synostoses syndrome 1,disease
+8231,C0342287,Thiamine responsive megaloblastic anemia syndrome,disease
+8232,C0342288,Insulin-dependent diabetes mellitus secretory diarrhea syndrome,disease
+8245,C0342345,Hypoparathyroidism - autosomal dominant,disease
+8252,C0342384,Idiopathic hypogonadotropic hypogonadism,disease
+8268,C0342471,3 beta-Hydroxysteroid dehydrogenase deficiency,disease
+8269,C0342474,Lipoid congenital adrenal hyperplasia,disease
+8270,C0342482,X-linked Adrenal Hypoplasia,disease
+8288,C0342549,Familial Testotoxicosis,disease
+8303,C0342642,Autosomal dominant hypophosphatemic rickets,disease
+8310,C0342684,"Ocular albinism, type I",disease
+8317,C0342708,Gamma aminobutyric acid transaminase deficiency,disease
+8326,C0342739,Trimethylaminuria,disease
+8335,C0342770,Fumarase deficiency,disease
+8341,C0342783,Deficiency of butyryl-CoA dehydrogenase,disease
+8343,C0342788,Renal carnitine transport defect,disease
+8344,C0342790,Carnitine palmitoyl transferase 2 deficiency,disease
+8345,C0342791,Carnitine-Acylcarnitine Translocase Deficiency,disease
+8346,C0342792,Succinyl-CoA:3-oxoacid CoA transferase deficiency,disease
+8355,C0342853,Sialuria,disease
+8362,C0342870,Bifunctional peroxisomal enzyme deficiency,phenotype
+8366,C0342881,Familial hypercholesterolemia - homozygous,disease
+8376,C0342907,Sitosterolemia,disease
+8510,C0344542,Aniridia type 1,disease
+8578,C0345893,Juvenile polyposis syndrome,disease
+8794,C0349588,Short stature,phenotype
+8805,C0349639,Juvenile Myelomonocytic Leukemia,disease
+8808,C0349653,Congenital disorder of glycosylation type 1A,disease
+8822,C0349788,Arrhythmogenic Right Ventricular Dysplasia,disease
+8884,C0391816,Tietz syndrome,disease
+8887,C0391826,Lhermitte-Duclos disease,disease
+8964,C0393538,"Muscular Atrophy, Spinal, Type II",disease
+9040,C0393808,"Charcot-Marie-Tooth disease, X-linked, 1",disease
+9051,C0393929,Familial infantile myasthenia,disease
+9108,C0398626,Heparin cofactor II deficiency (disorder),disease
+9119,C0398686,Primary immune deficiency disorder,group
+9120,C0398689,"Hyper-IgM Immunodeficiency Syndrome, Type 1",disease
+9121,C0398691,Hyperimmunoglobulinemia D,disease
+9136,C0398777,Complement Factor H Deficiency,disease
+9138,C0398788,"Immunodeficiency syndrome, variable",disease
+9139,C0398791,Nijmegen Breakage Syndrome,disease
+9140,C0398794,Hypopigmentation-immunodeficiency disease,disease
+9197,C0403399,Finnish congenital nephrotic syndrome,disease
+9237,C0403814,Congenital bilateral aplasia of vas deferens,disease
+9308,C0406709,Hay-Wells syndrome,disease
+9322,C0406810,Carney Complex,disease
+9332,C0409338,Flexion contracture - elbow,disease
+9369,C0410173,Severe autosomal recessive muscular dystrophy of childhood - North African type (disorder),disease
+9370,C0410174,Fukuyama Type Congenital Muscular Dystrophy,disease
+9374,C0410190,Autosomal Dominant Emery-Dreifuss Muscular Dystrophy (disorder),disease
+9377,C0410203,X-linked centronuclear myopathy,disease
+9395,C0410538,Pseudoachondroplasia,disease
+9512,C0424605,Developmental delay (disorder),phenotype
+9667,C0431375,Classical Lissencephaly,disease
+9699,C0431693,Renal cysts and diabetes syndrome,disease
+9719,C0432072,Dysmorphic features,disease
+9725,C0432122,Interfrontal craniofaciosynostosis,disease
+9742,C0432215,Progressive pseudorheumatoid dysplasia,disease
+9743,C0432217,Wolcott-Rallison syndrome,disease
+9753,C0432233,Trichorhinophalangeal dysplasia type I,disease
+9782,C0432306,Ichthyosis Bullosa of Siemens,disease
+9785,C0432316,Epidermolysis bullosa simplex with mottled pigmentation,disease
+9786,C0432317,"Epidermolysis bullosa simplex, Ogna type",disease
+9788,C0432322,"Dominant dystrophic epidermolysis bullosa, albopapular type (disorder)",disease
+9924,C0457013,Weyers acrofacial dysostosis,disease
+9969,C0472813,X-linked agammaglobulinemia with growth hormone deficiency,disease
+10033,C0476089,Endometrial Carcinoma,disease
+10279,C0521802,Congenital atransferrinemia,disease
+10343,C0524582,Mulibrey Nanism,disease
+10482,C0546966,Monilethrix,disease
+10522,C0549463,X-Linked Lymphoproliferative Disorder,disease
+10591,C0557874,Global developmental delay,disease
+10658,C0574080,Guanidinoacetate methyltransferase deficiency,disease
+10659,C0574083,3-Methylglutaconic aciduria type 2,disease
+10792,C0587248,Costello syndrome (disorder),disease
+10911,C0677776,Hereditary Breast and Ovarian Cancer Syndrome,disease
+11041,C0687720,Central Diabetes Insipidus,disease
+11067,C0699791,Stomach Carcinoma,disease
+11156,C0730290,Cone Dystrophy,disease
+11158,C0730292,Macular dystrophy,disease
+11181,C0733682,"Hypophosphatemic Rickets, X-Linked Dominant",disease
+11345,C0745103,Hyperlipoproteinemia Type IIa,disease
+11501,C0750901,"Alzheimer Disease, Early Onset",disease
+11564,C0751036,Hereditary Motor and Sensory Neuropathy Type I,disease
+11566,C0751038,"Cockayne Syndrome, Type II",disease
+11607,C0751161,UDPglucose 4-epimerase deficiency disease,disease
+11623,C0751202,Cystathionine beta-Synthase Deficiency Disease,disease
+11674,C0751337,X-Linked Emery-Dreifuss Muscular Dystrophy,disease
+11691,C0751360,Becker Generalized Myotonia,disease
+11703,C0751383,Juvenile Neuronal Ceroid Lipofuscinosis,disease
+11721,C0751434,Classical phenylketonuria,disease
+11722,C0751435,Hyperphenylalaninaemia,disease
+11833,C0751651,Mitochondrial Diseases,group
+11836,C0751663,"Canavan Disease, Familial Form",disease
+11845,C0751674,Lymphangioleiomyomatosis,disease
+11874,C0751748,Nonketotic Hyperglycinemia,disease
+11888,C0751778,"Myoclonic Epilepsies, Progressive",disease
+11893,C0751783,Lafora Disease,disease
+11932,C0751882,"Myasthenic Syndromes, Congenital",disease
+11959,C0751951,Central Core Myopathy (disorder),disease
+11997,C0752166,Bardet-Biedl Syndrome,disease
+12102,C0795953,MASA SYNDROME (disorder),disease
+12106,C0795998,JACKSON-WEISS SYNDROME,disease
+12109,C0796003,Juberg-Marsidi syndrome,disease
+12129,C0796074,MOHR-TRANEBJAERG SYNDROME,disease
+12148,C0796154,"SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 1",disease
+12168,C0796225,"Mental Retardation, X-Linked 19",disease
+12406,C0854723,Retinal Dystrophies,group
+12820,C0878676,6-pyruvoyl-tetrahydropterin synthase deficiency,disease
+12822,C0878681,Dent's disease,disease
+12824,C0878683,Pituitary Dwarfism Type 3,disease
+12845,C0917796,"Optic Atrophy, Hereditary, Leber",disease
+12988,C0948368,Kaufman-McKusick syndrome,disease
+13048,C0949658,"Cardiomyopathy, Hypertrophic, Familial",disease
+13056,C0950121,Denys-Drash Syndrome,disease
+13057,C0950122,Frasier Syndrome,disease
+13123,C1096902,Infantile Sialic Acid Storage Disease,disease
+13124,C1096903,"Sialic Acid Storage Disease, Finnish Type (disorder)",disease
+13207,C1141890,Congenital long QT syndrome,disease
+13223,C1142166,Brugada Syndrome (disorder),disease
+13256,C1148551,X-Linked Dyskeratosis Congenita,disease
+13345,C1260899,"Anemia, Diamond-Blackfan",disease
+13410,C1263858,"Muscular dystrophy congenital, merosin negative",disease
+13418,C1264000,Sickle cell-Hemoglobin O Arab disease,disease
+13421,C1264039,"von Willebrand Disease, Type 1",disease
+13423,C1264041,"von Willebrand Disease, Type 3",disease
+13601,C1275114,Epidermolysis Bullosa Pruriginosa,disease
+13604,C1275126,TNF receptor-associated periodic fever syndrome (TRAPS),disease
+13676,C1279481,X-Linked Combined Immunodeficiency Diseases,group
+13720,C1283400,Butyrylcholinesterase deficiency,disease
+13722,C1283620,"Sucrase-isomaltase deficiency, congenital",disease
+13773,C1291299,Deficiency of iodide peroxidase (disorder),disease
+13786,C1291490,Hyaluronidase Deficiency,disease
+14067,C1327915,Congenital amegakaryocytic thrombocytopenia,disease
+14093,C1328840,Autoimmune Lymphoproliferative Syndrome,disease
+14324,C1333990,Hereditary Nonpolyposis Colorectal Cancer,disease
+14325,C1333991,Hereditary Non-Polyposis Colon Cancer Type 2,disease
+14564,C1336839,Type 1 Papillary Renal Cell Carcinoma,disease
+14791,C1415817,"HETEROTAXY, VISCERAL, 2, AUTOSOMAL",disease
+14830,C1449563,"Cardiomyopathy, Familial Idiopathic",disease
+14838,C1449842,"Pseudohypoaldosteronism, Type I, Autosomal Dominant",disease
+14839,C1449843,"Pseudohypoaldosteronism, Type I, Autosomal Recessive",disease
+14884,C1458155,Mammary Neoplasms,group
+14918,C1510455,Acrocephalosyndactylia,disease
+14919,C1510460,Orofaciodigital Syndrome I,disease
+14943,C1512419,Hereditary Melanoma,disease
+15069,C1531773,Currarino triad,disease
+15093,C1535893,Orthostatic intolerance,phenotype
+15169,C1563705,"Nephrogenic Diabetes Insipidus, Type I",disease
+15175,C1563719,Kallmann Syndrome 1,disease
+15176,C1563720,Kallmann Syndrome 2 (disorder),disease
+15202,C1568247,"Usher Syndrome, Type I",disease
+15274,C1631597,"VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)",disease
+15276,C1636149,"Macular dystrophy, corneal type 1",disease
+15287,C1690006,Lattice corneal dystrophy Type I,disease
+15359,C1704417,Hyperlipoproteinemia Type IIb,disease
+15361,C1704423,Milroy Disease,disease
+15363,C1704429,"Hypoalphalipoproteinemia, Familial",disease
+15378,C1706595,"Pachyonychia Congenita, Jadassohn Lewandowsky Type",disease
+15404,C1708349,Hereditary Diffuse Gastric Cancer,disease
+15406,C1708353,Hereditary Paraganglioma-Pheochromocytoma Syndrome,disease
+15480,C1719788,Episodic ataxia type 1,disease
+15492,C1720416,Episodic ataxia type 2 (disorder),disease
+15517,C1720860,"Familial Partial Lipodystrophy, Type 2",disease
+15518,C1720861,"Familial Partial Lipodystrophy, Type 3",disease
+15523,C1720956,"Hyper-IgM Immunodeficiency Syndrome, Type 2",disease
+15530,C1721006,"Keratoderma, Palmoplantar, Epidermolytic",disease
+15531,C1721007,"Pachyonychia Congenita, Type 2 (disorder)",disease
+15600,C1809471,Familial benign hypercalcemia,disease
+15650,C1832174,DOYNE HONEYCOMB RETINAL DYSTROPHY,disease
+15653,C1832200,Peroxisome biogenesis disorders,group
+15659,C1832243,"CARDIOMYOPATHY, DILATED, 1D (disorder)",disease
+15671,C1832322,"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive",disease
+15679,C1832370,"MYOPATHY, MYOFIBRILLAR, DESMIN-RELATED",disease
+15681,C1832386,"Diabetes Mellitus, Transient Neonatal, 1",disease
+15683,C1832388,"Platelet Disorder, Familial, with Associated Myeloid Malignancy",disease
+15686,C1832394,"Deafness, Autosomal Recessive 12",disease
+15690,C1832425,"Deafness, Autosomal Dominant 9",disease
+15701,C1832476,"Deafness, Autosomal Dominant 10",disease
+15702,C1832525,Limb-girdle muscular dystrophy type 2F,disease
+15707,C1832560,RIPPLING MUSCLE DISEASE 2 (disorder),disease
+15722,C1832648,Hypoparathyroidism familial isolated,disease
+15731,C1832736,"CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Id",disease
+15737,C1832828,"Deafness, Autosomal Recessive 9",disease
+15741,C1832845,"USHER SYNDROME, TYPE ID",disease
+15743,C1832884,"Hemiplegic migraine, familial type 1",disease
+15747,C1832918,Brody myopathy,disease
+15749,C1832931,"ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 2",disease
+15760,C1832998,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 3",disease
+15775,C1833213,"Hyperferritinemia, hereditary, with congenital cataracts",disease
+15784,C1833275,"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative",disease
+15806,C1833477,"COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5",disease
+15809,C1833508,"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LATE-ONSET",disease
+15810,C1833511,"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, INFANTILE",disease
+15811,C1833518,"CARNITINE PALMITOYLTRANSFERASE II DEFICIENCY, LETHAL NEONATAL",disease
+15837,C1833921,Familial medullary thyroid carcinoma,disease
+15863,C1834329,RETINITIS PIGMENTOSA 27,disease
+15867,C1834372,Narcolepsy 1,disease
+15877,C1834460,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10",disease
+15879,C1834481,"CARDIOMYOPATHY, DILATED, 1S",disease
+15886,C1834570,Myoclonic dystonia,disease
+15893,C1834674,BETHLEM MYOPATHY 1,disease
+15898,C1834711,CEREBELLOPARENCHYMAL DISORDER VI,disease
+15899,C1834712,Cerebellar Granule Cell Hypertrophy and Megalencephaly,disease
+15910,C1834877,HOLOPROSENCEPHALY 2 (disorder),disease
+15923,C1835044,"MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 2",disease
+15948,C1835398,LI-FRAUMENI SYNDROME 1,disease
+15950,C1835437,"Platyspondylic Lethal Skeletal Dysplasia, Torrance Type",disease
+15973,C1835672,Palmoplantar Keratoderma with Deafness,disease
+16030,C1836080,"Stickler Syndrome, Type I, Nonsyndromic Ocular",disease
+16070,C1836327,RHABDOID TUMOR PREDISPOSITION SYNDROME 1 (disorder),disease
+16083,C1836448,Nemaline myopathy 1,disease
+16086,C1836460,"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 2",disease
+16094,C1836522,"Schindler Disease, Type II",disease
+16100,C1836544,"Schindler Disease, Type I",disease
+16129,C1836727,"Peripheral Demyelinating Neuropathy, Central Dysmyelination, Waardenburg Syndrome, and Hirschsprung Disease",disease
+16180,C1837028,"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive",disease
+16189,C1837091,"MYASTHENIC SYNDROME, CONGENITAL, ASSOCIATED WITH ACETYLCHOLINE RECEPTOR DEFICIENCY",disease
+16229,C1837396,"CONGENITAL DISORDER OF GLYCOSYLATION, TYPE Ie",disease
+16268,C1837618,"CILIARY DYSKINESIA, PRIMARY, 3",disease
+16315,C1837915,"ERYTHROCYTOSIS, FAMILIAL, 2",disease
+16317,C1837991,"Colorectal Adenomatous Polyposis, Autosomal Recessive",disease
+16320,C1838049,"Epilepsy, Nocturnal Frontal Lobe, Type 1",disease
+16325,C1838100,"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 3 (disorder)",disease
+16329,C1838163,OSLER-RENDU-WEBER SYNDROME 2,disease
+16344,C1838280,"Epiphyseal dysplasia, multiple, 1",disease
+16351,C1838333,"COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4",disease
+16357,C1838437,"VENOUS MALFORMATIONS, MULTIPLE CUTANEOUS AND MUCOSAL",disease
+16364,C1838547,MELANOMA-PANCREATIC CANCER SYNDROME,disease
+16368,C1838570,"CEROID LIPOFUSCINOSIS, NEURONAL, 8",disease
+16378,C1838612,"Rhizomelic chondrodysplasia punctata, type 3",disease
+16381,C1838647,RETINITIS PIGMENTOSA 12 (disorder),disease
+16392,C1838701,"DEAFNESS, AUTOSOMAL RECESSIVE 2",disease
+16406,C1838979,MITOCHONDRIAL COMPLEX I DEFICIENCY,disease
+16422,C1839161,"Thrombocytopenia, Platelet Dysfunction, Hemolysis, and Imbalanced Globin Synthesis",disease
+16423,C1839163,THROMBOCYTOPENIA 1 (disorder),disease
+16429,C1839259,"Bulbo-Spinal Atrophy, X-Linked",disease
+16430,C1839264,"SPASTIC PARAPLEGIA 2, X-LINKED (disorder)",disease
+16445,C1839413,Pyruvate Dehydrogenase E1 Alpha Deficiency,disease
+16448,C1839454,"PROPERDIN DEFICIENCY, X-LINKED",disease
+16502,C1839874,Low Molecular Weight Proteinuria with Hypercalciuria and Nephrocalcinosis,disease
+16542,C1840333,Barakat syndrome,disease
+16575,C1840528,HOLOPROSENCEPHALY 4 (disorder),disease
+16576,C1840529,HOLOPROSENCEPHALY 3,disease
+16587,C1841679,Hand foot uterus syndrome,disease
+16601,C1842028,"GLAUCOMA 1, OPEN ANGLE, A",disease
+16602,C1842031,"IRIDOGONIODYSGENESIS, TYPE 2",disease
+16610,C1842090,Platelet Glycoprotein IV Deficiency,disease
+16620,C1842160,"MYOPATHY, MYOSIN STORAGE (disorder)",disease
+16632,C1842362,HERMANSKY-PUDLAK SYNDROME 2,disease
+16637,C1842398,Neutrophil Immunodeficiency Syndrome,disease
+16647,C1842475,Retinitis Pigmentosa 7,disease
+16651,C1842534,DYSTONIA 18 (disorder),disease
+16669,C1842704,"GAUCHER DISEASE, PERINATAL LETHAL",disease
+16699,C1843013,"Alzheimer disease, familial, type 3",disease
+16705,C1843075,"Charcot-Marie-Tooth Disease, Dominant Intermediate D",disease
+16711,C1843116,"Bile acid synthesis defect, congenital, 1",disease
+16715,C1843153,"Charcot-Marie-Tooth disease, Type 2J",disease
+16723,C1843225,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2E (disorder)",disease
+16726,C1843247,"Charcot-Marie-Tooth disease, Type 1D (disorder)",disease
+16740,C1843366,"NIEMANN-PICK DISEASE, TYPE C2",disease
+16749,C1843463,"Ichthyosis, Cyclic, with Epidermolytic Hyperkeratosis",disease
+16780,C1843816,Bothnia Retinal Dystrophy,disease
+16793,C1843896,"Arrhythmogenic Right Ventricular Dysplasia, Familial, 8",disease
+16807,C1844376,"Granulomatous Disease, Chronic, X-Linked",disease
+16897,C1845028,"ANEMIA, SIDEROBLASTIC, AND SPINOCEREBELLAR ATAXIA",disease
+16901,C1845053,"Amelogenesis Imperfecta, Hypomaturation Type, with Snow-Capped Teeth",disease
+16902,C1845055,"ALPHA-THALASSEMIA/MENTAL RETARDATION SYNDROME, NONDELETION TYPE, X-LINKED",disease
+16971,C1845667,RETINITIS PIGMENTOSA 3,disease
+16977,C1845847,Coarse facial features,phenotype
+16989,C1845987,"Neutropenia, Severe Congenital, X-Linked",disease
+16991,C1846008,"HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC",disease
+17001,C1846058,Lubs X-linked mental retardation syndrome,disease
+17018,C1846174,"Mental Retardation, X-Linked 58",disease
+17074,C1846564,"SPASTIC PARAPLEGIA 7, AUTOSOMAL RECESSIVE",disease
+17090,C1846796,Anauxetic dysplasia,disease
+17107,C1847024,"ALBINISM, OCULOCUTANEOUS, TYPE IB (disorder)",disease
+17116,C1847200,ALZHEIMER DISEASE 4,disease
+17117,C1847319,PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA,disease
+17136,C1847555,"Hyperinsulinemic hypoglycemia, familial, 6",disease
+17139,C1847593,"EPIPHYSEAL DYSPLASIA, MULTIPLE, 4",disease
+17147,C1847667,"CARDIOMYOPATHY, DILATED, 1L",disease
+17155,C1847800,Waardenburg Syndrome Type 1,disease
+17182,C1848172,"NIGHT BLINDNESS, CONGENITAL STATIONARY, TYPE 2A",disease
+17193,C1848336,Dent disease 1,disease
+17197,C1848410,"Xeroderma pigmentosum, variant type",disease
+17214,C1848533,Ataxia with vitamin E deficiency,disease
+17215,C1848534,"VITAMIN K-DEPENDENT CLOTTING FACTORS, COMBINED DEFICIENCY OF, 1",disease
+17222,C1848561,Methylmalonic acidemia with homocystinuria,disease
+17232,C1848604,"USHER SYNDROME, TYPE IC",disease
+17234,C1848634,"USHER SYNDROME, TYPE IIA",disease
+17262,C1848805,Thyroid Dyshormonogenesis 1,disease
+17305,C1849140,"SPASTIC ATAXIA, CHARLEVOIX-SAGUENAY TYPE",disease
+17327,C1849265,Overgrowth,phenotype
+17343,C1849334,"Robinow syndrome, autosomal recessive",disease
+17357,C1849387,"Rh-Null, Regulator Type",disease
+17359,C1849394,Enhanced S-Cone Syndrome,disease
+17367,C1849453,Rapadilino syndrome,disease
+17404,C1849792,Achromatopsia 3,disease
+17435,C1850127,"Osteopetrosis, Autosomal Recessive 1",disease
+17467,C1850386,GIANT AXONAL NEUROPATHY 1,disease
+17474,C1850442,"CEROID LIPOFUSCINOSIS, NEURONAL, 5",disease
+17476,C1850451,"CEROID LIPOFUSCINOSIS, NEURONAL, 1",disease
+17482,C1850554,Atelosteogenesis type 2,disease
+17506,C1850709,"Myopathy, Hyaline Body, Autosomal Recessive",disease
+17525,C1850889,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2B",disease
+17559,C1851413,"EXOSTOSES, MULTIPLE, TYPE II",disease
+17607,C1851920,Dopa-Responsive Dystonia,disease
+17610,C1851945,"DYSTONIA 1, TORSION, AUTOSOMAL DOMINANT",disease
+17624,C1852093,"Maturity-Onset Diabetes of the Young, Type 1",disease
+17659,C1852529,Corticosteroid-Binding Globulin Deficiency,disease
+17669,C1852759,Papillorenal syndrome,disease
+17690,C1853153,JOUBERT SYNDROME 6,disease
+17703,C1853230,"Aphakia, congenital primary",disease
+17720,C1853278,Bleeding Disorder Due To P2RY12 Defect,disease
+17727,C1853371,"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 6 (disorder)",disease
+17752,C1853578,Neuroferritinopathy,disease
+17762,C1853733,"HEMOCHROMATOSIS, TYPE 4",disease
+17763,C1853736,"Congenital Disorder Of Glycosylation, Type IIB",disease
+17775,C1853892,Dimethylglycine Dehydrogenase Deficiency,disease
+17796,C1854063,Cardiomyopathy dilated with Woolly hair and keratoderma,disease
+17798,C1854106,"INCLUSION BODY MYOPATHY 3, AUTOSOMAL DOMINANT",disease
+17804,C1854146,"Deafness, Autosomal Dominant 39, with Dentinogenesis Imperfecta 1",disease
+17819,C1854335,"Epilepsy, Nocturnal Frontal Lobe, Type 3",disease
+17820,C1854336,PARAGANGLIOMAS 3,disease
+17825,C1854380,NEMALINE MYOPATHY 5,disease
+17830,C1854416,MACROCEPHALY/AUTISM SYNDROME,disease
+17834,C1854442,SPLIT-HAND/FOOT MALFORMATION 4,disease
+17836,C1854449,"Neuropathy, hereditary motor and sensory, Russe type",disease
+17838,C1854465,TUBEROUS SCLEROSIS 1 (disorder),disease
+17854,C1854631,"Hypertension, Early-Onset, Autosomal Dominant, with Severe Exacerbation in Pregnancy",disease
+17878,C1854896,Mucolipidosis III Gamma,disease
+17891,C1854989,"Molybdenum Cofactor Deficiency, Complementation Group B",disease
+17892,C1854990,"Molybdenum Cofactor Deficiency, Complementation Group C",disease
+17895,C1855008,Mitochondrial Complex II Deficiency,disease
+17909,C1855114,Methylmalonic Aciduria due to Methylmalonyl-CoA Mutase Deficiency,disease
+17959,C1855465,STARGARDT DISEASE 1 (disorder),disease
+17977,C1855577,Erythrocyte Lactate Transporter Defect,disease
+17986,C1855627,HAIM-MUNK SYNDROME,disease
+18010,C1855722,"Iris Coloboma with Ptosis, Hypertelorism, and Mental Retardation",disease
+18058,C1856057,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",disease
+18059,C1856058,"HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY",disease
+18084,C1856245,"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Positive, Type II",disease
+18086,C1856255,"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Negative",disease
+18092,C1856301,"GSD IV, Classic Hepatic",disease
+18106,C1856439,"GLAUCOMA 3, PRIMARY CONGENITAL, A",disease
+18122,C1856603,"Gamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia due to",disease
+18132,C1856689,FRIEDREICH ATAXIA 1,disease
+18165,C1856895,"SKIN/HAIR/EYE PIGMENTATION, VARIATION IN, 1",phenotype
+18174,C1856934,Epidermolysis bullosa with pyloric atresia,disease
+18214,C1857242,"Rhizomelic chondrodysplasia punctata, type 2",disease
+18229,C1857316,POLYCYSTIC LIPOMEMBRANOUS OSTEODYSPLASIA WITH SCLEROSING LEUKOENCEPHALOPATHY,disease
+18260,C1857574,CORNEA PLANA 2,disease
+18330,C1858025,Spinal rigidity,phenotype
+18337,C1858054,BARDET-BIEDL SYNDROME 6,disease
+18340,C1858084,"STICKLER SYNDROME, TYPE II (disorder)",disease
+18347,C1858120,Generalized hypotonia,phenotype
+18351,C1858154,"CARDIOMYOPATHY, DILATED, 1I",disease
+18365,C1858328,"Bile acid synthesis defect, congenital, 4",disease
+18371,C1858386,Leber Congenital Amaurosis 4,disease
+18372,C1858391,ATAXIA-TELANGIECTASIA-LIKE DISORDER,disease
+18375,C1858424,"Cardioencephalomyopathy, Fatal Infantile, due to Cytochrome C Oxidase Deficiency",disease
+18395,C1858562,"ECTRODACTYLY, ECTODERMAL DYSPLASIA, AND CLEFT LIP/PALATE SYNDROME 3",disease
+18403,C1858593,"Limb-girdle muscular dystrophy, type 2E",disease
+18409,C1858673,"GENERALIZED EPILEPSY WITH FEBRILE SEIZURES PLUS, TYPE 2",disease
+18412,C1858679,"CATARACT, AUTOSOMAL DOMINANT",disease
+18413,C1858680,Familial encephalopathy with neuroserpin inclusion bodies,disease
+18419,C1858725,"NONCOMPACTION OF LEFT VENTRICULAR MYOCARDIUM, FAMILIAL ISOLATED, AUTOSOMAL DOMINANT 1",disease
+18426,C1858806,CONE-ROD DYSTROPHY 3 (disorder),disease
+18427,C1858854,MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS,disease
+18433,C1858968,"Autoimmune Lymphoproliferative Syndrome, Type IIA",disease
+18448,C1859062,LONG QT SYNDROME 3,disease
+18461,C1859133,"RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 1",disease
+18527,C1859499,3-methylcrotonyl CoA carboxylase 2 deficiency,disease
+18547,C1859598,"ATAXIA, EARLY-ONSET, WITH OCULOMOTOR APRAXIA AND HYPOALBUMINEMIA",disease
+18578,C1859844,"LEBER CONGENITAL AMAUROSIS, TYPE II (disorder)",disease
+18587,C1859966,"Neutropenia, Severe Congenital, Autosomal Dominant 1",disease
+18651,C1860707,TUBEROUS SCLEROSIS 2 (disorder),disease
+18655,C1860752,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 7",disease
+18659,C1860808,Triosephosphate Isomerase Deficiency,disease
+18662,C1860823,"Trichorhinophalangeal Syndrome, Type III",disease
+18676,C1861065,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 9",disease
+18768,C1861828,"Cataract, Zonular Pulverulent 1",disease
+18770,C1861832,"CATARACT, CRYSTALLINE ACULEIFORM",phenotype
+18773,C1861862,Familial Hypertrophic Cardiomyopathy Type 4,disease
+18775,C1861864,"Cardiomyopathy, Familial Hypertrophic, 2",disease
+18783,C1861922,CAMPOMELIC DYSPLASIA,disease
+18872,C1862939,AMYOTROPHIC LATERAL SCLEROSIS 1,disease
+18891,C1863236,"SCID Due to ADA Deficiency, Early-Onset",disease
+18929,C1863659,"DEAFNESS, AUTOSOMAL DOMINANT 17",disease
+18931,C1863688,"Xanthinuria, Type II",disease
+18934,C1863727,"HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS, FAMILIAL, 2",disease
+18945,C1863844,Adult-onset citrullinemia type 2,disease
+18962,C1864112,HUNTINGTON DISEASE-LIKE 1,disease
+18970,C1864233,ENDPLATE ACETYLCHOLINESTERASE DEFICIENCY (disorder),disease
+18982,C1864399,"Peroxisome Biogenesis Disorder, Complementation Group 7",disease
+18988,C1864498,"RENAL TUBULAR ACIDOSIS, DISTAL, AUTOSOMAL RECESSIVE",disease
+19012,C1864721,"Microphthalmia, Isolated, with Coloboma 3",disease
+19027,C1864827,HOLOPROSENCEPHALY 5,disease
+19054,C1864912,2-Methylbutyryl-CoA Dehydrogenase Deficiency,disease
+19055,C1864923,Northern epilepsy syndrome,disease
+19069,C1865020,Short QT Syndrome 1,disease
+19075,C1865044,PARIETAL FORAMINA 2,disease
+19081,C1865143,BRANCHIOOTIC SYNDROME 1,disease
+19082,C1865145,Congenital disorder of glycosylation type 1B,disease
+19088,C1865234,"ICHTHYOSIS, HYSTRIX-LIKE, WITH DEAFNESS",disease
+19126,C1865433,"VAS DEFERENS, CONGENITAL BILATERAL ABSENCE OF",phenotype
+19153,C1865869,CONE DYSTROPHY 3 (disorder),disease
+19154,C1865870,"Deafness, Autosomal Recessive 18",disease
+19182,C1866077,"MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 5",phenotype
+19183,C1866078,"Cataract, Zonular Pulverulent 3",disease
+19188,C1866095,"Deafness, Autosomal Dominant 13",disease
+19197,C1866174,Phosphoglycerate Dehydrogenase Deficiency,disease
+19213,C1866293,Retinal cone dystrophy 2,disease
+19216,C1866351,"Peroxisome Biogenesis Disorder, Complementation Group 11",disease
+19217,C1866352,"Peroxisome Biogenesis Disorder, Complementation Group R",disease
+19218,C1866376,Pten Hamartoma Tumor Syndrome With Granular Cell Tumor,disease
+19219,C1866398,Proteus-Like Syndrome (disorder),disease
+19223,C1866426,"T-cell immunodeficiency, congenital alopecia and nail dystrophy",disease
+19231,C1866504,Photosensitive Trichothiodystrophy,disease
+19264,C1866855,"Spastic paraplegia 4, autosomal dominant",disease
+19327,C1867904,LONG QT SYNDROME 5,disease
+19332,C1867981,"POROKERATOSIS, DISSEMINATED SUPERFICIAL ACTINIC, 1",disease
+19362,C1868433,"Normokalemic Periodic Paralysis, Potassium-Sensitive",disease
+19374,C1868570,CHAR SYNDROME,disease
+19385,C1868599,PARIETAL FORAMINA 1,disease
+19389,C1868633,Paragangliomas with Sensorineural Hearing Loss,disease
+19392,C1868672,"NEPHROTIC SYNDROME, STEROID-RESISTANT, AUTOSOMAL RECESSIVE",disease
+19393,C1868675,"PARKINSON DISEASE 2, AUTOSOMAL RECESSIVE JUVENILE",disease
+19395,C1868678,"THANATOPHORIC DYSPLASIA, TYPE I (disorder)",disease
+19396,C1868679,"GRISCELLI SYNDROME, TYPE 2",disease
+19428,C1869118,"HYPOTHYROIDISM, CONGENITAL, DUE TO THYROID DYSGENESIS",disease
+19430,C1869123,Limb-girdle muscular dystrophy type 2A,disease
+19432,C1876161,"CEROID LIPOFUSCINOSIS, NEURONAL, 2",disease
+19447,C1879286,Hereditary bundle branch system defect,disease
+19501,C1956125,Alagille Syndrome 1,disease
+19519,C1959582,PTEN Hamartoma Tumor Syndrome,disease
+19527,C1959626,Mevalonic Aciduria,disease
+19561,C1961835,"Gaucher Disease, Type 1",disease
+19602,C1968550,"Mental Retardation, X-Linked, Syndromic 13",disease
+19604,C1968556,"ENCEPHALOPATHY, NEONATAL SEVERE, DUE TO MECP2 MUTATIONS",disease
+19632,C1968804,"Plasminogen Deficiency, Type I",disease
+19654,C1969038,"RENAL TUBULAR ACIDOSIS, DISTAL, WITH HEMOLYTIC ANEMIA (disorder)",disease
+19656,C1969040,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2M",disease
+19671,C1969106,"Osteopetrosis, Autosomal Recessive 4",disease
+19701,C1969419,"PANCREATITIS, CHRONIC, SUSCEPTIBILITY TO",phenotype
+19702,C1969443,Trifunctional Protein Deficiency With Myopathy And Neuropathy,disease
+19757,C1970163,RETINITIS PIGMENTOSA 37 (disorder),disease
+19790,C1970309,"Renal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mental Retardation",disease
+19813,C1970712,"Multiple Endocrine Neoplasia, Type IV",disease
+19842,C1997910,Citrin deficiency,disease
+19863,C2020284,"Stickler syndrome, type 1",disease
+19970,C2239176,Liver carcinoma,disease
+20154,C2584774,Congenital hypofibrinogenemia,disease
+20175,C2607929,"Carney Complex, Type 1",disease
+20221,C2673196,LIPOPROTEIN GLOMERULOPATHY,disease
+20252,C2673535,"DYSTONIA, DOPA-RESPONSIVE, WITH OR WITHOUT HYPERPHENYLALANINEMIA, AUTOSOMAL RECESSIVE (disorder)",disease
+20253,C2673536,Combined Cellular And Humoral Immune Defects With Granulomas,disease
+20273,C2673759,"DEAFNESS, AUTOSOMAL RECESSIVE 1A (disorder)",disease
+20296,C2674173,"Achondroplasia, Severe, With Developmental Delay And Acanthosis Nigricans",disease
+20298,C2674218,"SPHEROCYTOSIS, TYPE 1 (disorder)",disease
+20302,C2674321,"Thrombophilia, Hereditary, Due To Protein C Deficiency, Autosomal Dominant",disease
+20321,C2674723,RAS-ASSOCIATED AUTOIMMUNE LEUKOPROLIFERATIVE DISORDER,disease
+20350,C2675192,"Spherocytosis, Type 5",disease
+20355,C2675210,CONE-ROD DYSTROPHY 12 (disorder),disease
+20357,C2675212,"Spherocytosis, Type 4",disease
+20363,C2675237,"Deafness, Autosomal Dominant 3B",disease
+20388,C2675517,"ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 1",phenotype
+20391,C2675520,"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 2",disease
+20414,C2675750,"DEAFNESS, AUTOSOMAL DOMINANT 3A (disorder)",disease
+20441,C2676137,Diamond-Blackfan Anemia 1,disease
+20451,C2676271,"CARDIOMYOPATHY, FAMILIAL RESTRICTIVE, 3 (disorder)",disease
+20465,C2676676,"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 1",disease
+20469,C2676723,JERVELL AND LANGE-NIELSEN SYNDROME 2 (disorder),disease
+20521,C2677349,Epidermolysis Bullosa Simplex With Pyloric Atresia,disease
+20529,C2677506,"Cardiomyopathy, Familial Hypertrophic, 11",disease
+20545,C2677637,"Deafness, Autosomal Dominant 2A",disease
+20594,C2678476,"Cardiomyopathy, Dilated, 1y",disease
+20607,C2678503,"AXENFELD-RIEGER SYNDROME, TYPE 3",disease
+20611,C2681923,RETINITIS PIGMENTOSA 2 (disorder),disease
+20664,C2700405,"WAARDENBURG SYNDROME, TYPE IIE",disease
+20666,C2700425,"EHLERS-DANLOS SYNDROME, DERMATOSPARAXIS TYPE",disease
+20671,C2700553,Omenn Syndrome,disease
+20702,C2713442,"Polyposis, Adenomatous Intestinal",disease
+20736,C2720289,"ANEMIA, NONSPHEROCYTIC HEMOLYTIC, DUE TO G6PD DEFICIENCY",disease
+20784,C2745959,"Spondyloepiphyseal dysplasia, congenita",disease
+20821,C2748552,Atrial Septal Defect 5,disease
+20836,C2748896,"46,Xy Gonadal Dysgenesis, Complete, Sry-Related",disease
+20855,C2749346,"Refsum Disease, Adult, 2",disease
+20867,C2749604,"HEMOLYTIC UREMIC SYNDROME, ATYPICAL, SUSCEPTIBILITY TO, 1",disease
+20887,C2750061,"Hypokalemic Periodic Paralysis, Type 2",disease
+20931,C2750457,"Waardenburg Syndrome, Type 4b",disease
+20942,C2750514,"Factor Xiii, A Subunit, Deficiency Of",disease
+20978,C2751052,"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITHOUT MENTAL RETARDATION), TYPE B, 4",disease
+20985,C2751090,Thrombophilia Due To Histidine-Rich Glycoprotein Deficiency,disease
+21000,C2751306,"Polycystic kidney disease, type 2",disease
+21023,C2751492,"AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED",disease
+21027,C2751532,3-Hydroxy-3-Methylglutaryl-CoA Synthase 2 Deficiency,disease
+21035,C2751608,"Pituitary Hormone Deficiency, Combined, 1",disease
+21060,C2751825,PREMATURE OVARIAN FAILURE 7 (disorder),disease
+21068,C2751898,"Ventricular Fibrillation, Paroxysmal Familial, 1",disease
+21087,C2752073,Erythrocyte Amp Deaminase Deficiency,disease
+21089,C2752081,ALPHA-2-PLASMIN INHIBITOR DEFICIENCY,disease
+21091,C2752147,"XERODERMA PIGMENTOSUM, COMPLEMENTATION GROUP C",disease
+21224,C2919796,Glycogen storage disease type Ia,disease
+21226,C2919945,Cavernous Hemangioma of Brain,disease
+21264,C2930900,Beta-sarcoglycanopathy,disease
+21282,C2930989,"Maple syrup urine disease, type 1A",disease
+21285,C2930997,Congenital disorder of glycosylation type 1C,disease
+21292,C2931008,Congenital disorder of glycosylation type 2A,disease
+21296,C2931013,"Cystinosis, benign, nonnephropathic",disease
+21315,C2931072,Epidermolysa bullosa simplex and limb girdle muscular dystrophy,disease
+21331,C2931132,"Crigler Najjar syndrome, type 2",disease
+21343,C2931187,Nephropathic cystinosis,disease
+21346,C2931196,Craniofacial dysostosis type 1,disease
+21366,C2931258,"Amaurosis congenita of Leber, type 1",disease
+21377,C2931299,ZAP70 deficiency,disease
+21397,C2931418,Bare lymphocyte syndrome 2,disease
+21440,C2931687,Dysferlinopathy,disease
+21449,C2931746,Sulfocysteinuria,disease
+21469,C2931826,Potassium aggravated myotonia,disease
+21472,C2931832,"Hyperinsulinemic hypoglycemia, familial, 1",disease
+21473,C2931833,"Hyperinsulinemic hypoglycemia, familial, 2",disease
+21517,C2936331,Sarcoglycanopathies,disease
+21518,C2936332,Alpha-Sarcoglycanopathies,disease
+21547,C2936781,Generalized Myotonia of Thomsen,disease
+21548,C2936783,"Colorectal cancer, hereditary nonpolyposis, type 1",disease
+21550,C2936791,"Antley-Bixler Syndrome, Autosomal Dominant",disease
+21562,C2936858,Congenital adrenal hyperplasia due to 21 hydroxylase deficiency,disease
+21565,C2936863,Bardet-Biedl syndrome 2 (disorder),disease
+21569,C2936904,"Opitz GBBB Syndrome, X-Linked",disease
+21578,C2937288,"THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT",disease
+21635,C2973527,Dentinogenesis imperfecta without osteogenesis imperfecta,disease
+21641,C2981140,Glaucoma of childhood,disease
+21719,C3149074,"SEIZURES, BENIGN FAMILIAL NEONATAL, 1",disease
+21722,C3149117,"GLUT1 DEFICIENCY SYNDROME 1, AUTOSOMAL RECESSIVE",disease
+21741,C3149841,POLYCYSTIC KIDNEY DISEASE 1,disease
+21759,C3150344,"HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED",disease
+21795,C3150681,"CARDIOMYOPATHY, DILATED, 1R",disease
+21876,C3150943,Long Qt Syndrome 2,disease
+21877,C3150953,Long Qt Syndrome 6,disease
+21888,C3150974,"HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 3",disease
+21894,C3150989,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2Q",disease
+21901,C3151038,"ACNE INVERSA, FAMILIAL, 3",disease
+21914,C3151068,RETINITIS PIGMENTOSA 44,disease
+21925,C3151086,Retinitis Pigmentosa 20,disease
+21936,C3151138,RETINITIS PIGMENTOSA 39 (disorder),disease
+21937,C3151139,RETINITIS PIGMENTOSA 43,disease
+21948,C3151192,LEBER CONGENITAL AMAUROSIS 7,disease
+21951,C3151202,LEBER CONGENITAL AMAUROSIS 8,disease
+22008,C3151466,HEPATIC LIPASE DEFICIENCY (disorder),disease
+22035,C3151897,"DEAFNESS, NONSYNDROMIC SENSORINEURAL, MITOCHONDRIAL",disease
+22036,C3151898,"MITOCHONDRIAL MYOPATHY, INFANTILE, TRANSIENT",disease
+22057,C3160738,"FANCONI ANEMIA, COMPLEMENTATION GROUP D2",disease
+22148,C3179455,"Niemann-Pick Disease, Type C1",disease
+22308,C3276096,ATRIAL SEPTAL DEFECT 7 WITH OR WITHOUT ATRIOVENTRICULAR CONDUCTION DEFECTS,disease
+22332,C3277076,"BERNARD-SOULIER SYNDROME, TYPE A2, AUTOSOMAL DOMINANT",disease
+22374,C3278211,"THROMBOPHILIA DUE TO PROTEIN S DEFICIENCY, AUTOSOMAL DOMINANT",disease
+22418,C3279660,"DEAFNESS, AUTOSOMAL RECESSIVE 29",disease
+22449,C3279840,Methylmalonate Semialdehyde Dehydrogenase Deficiency,disease
+22457,C3279904,Lactate Dehydrogenase B Deficiency,disease
+22467,C3279992,PARAGANGLIOMAS 5,disease
+22520,C3280345,"BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4",disease
+22531,C3280428,Alpha-Methylacyl-CoA Racemase Deficiency,disease
+22554,C3280586,Mannose-Binding Protein Deficiency,disease
+22652,C3468041,"FANCONI ANEMIA, COMPLEMENTATION GROUP C",disease
+22656,C3469186,"HEMOCHROMATOSIS, TYPE 1",disease
+22657,C3469521,"FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)",disease
+22661,C3469526,"FANCONI ANEMIA, COMPLEMENTATION GROUP F",disease
+22662,C3469527,fanconi anemia complementation group g,disease
+22687,C3489532,Cone-Rod Dystrophy 2,disease
+22703,C3489787,"Pituitary Hormone Deficiency, Combined, 3",disease
+22704,C3489789,"Cholestasis, Progressive Familial Intrahepatic, 2",disease
+22706,C3489793,"46,XY Sex Reversal 3",disease
+22712,C3493776,"HYPOTHYROIDISM, CONGENITAL, NONGOITROUS, 1",disease
+22729,C3494506,"Pseudohypoparathyroidism, Type Ia",disease
+22747,C3495427,Fanconi-Bickel Syndrome,disease
+22754,C3495498,"Cardiomyopathy, Familial Hypertrophic, 1 (disorder)",disease
+22764,C3495587,"Night Blindness, Congenital Stationary, Type 1A",disease
+22767,C3495591,"Charcot-Marie-Tooth Disease, Demyelinating, Type 1e",disease
+22789,C3496337,Idiopathic Nephrotic Syndrome,disease
+22869,C3538946,"DEAFNESS, AUTOSOMAL RECESSIVE 4, WITH ENLARGED VESTIBULAR AQUEDUCT",disease
+22877,C3539120,"PROSTATE CANCER, HEREDITARY, 2",disease
+22892,C3540453,"CHARCOT-MARIE-TOOTH DISEASE, DEMYELINATING, TYPE 4F",disease
+22898,C3540850,"CATARACT 4, MULTIPLE TYPES",disease
+22903,C3541456,"Spondyloepiphyseal Dysplasia Tarda, X-Linked",disease
+22908,C3541517,"ECTODERMAL DYSPLASIA 11A, HYPOHIDROTIC/HAIR/TOOTH TYPE, AUTOSOMAL DOMINANT",disease
+22915,C3542024,AORTIC VALVE DISEASE 2,disease
+22917,C3542026,PEROXISOME BIOGENESIS DISORDER 5B,disease
+22963,C3550234,PEROXISOME BIOGENESIS DISORDER 2B,disease
+22969,C3550693,PEROXISOME BIOGENESIS DISORDER 3B,disease
+22971,C3550789,"THROMBOCYTOPENIA, X-LINKED, WITH OR WITHOUT DYSERYTHROPOIETIC ANEMIA",disease
+23098,C3553929,PEROXISOME BIOGENESIS DISORDER 3A (ZELLWEGER),disease
+23100,C3553936,PEROXISOME BIOGENESIS DISORDER 4A (ZELLWEGER),disease
+23101,C3553937,PEROXISOME BIOGENESIS DISORDER 4B,disease
+23102,C3553940,PEROXISOME BIOGENESIS DISORDER 5A (ZELLWEGER),disease
+23105,C3553947,PEROXISOME BIOGENESIS DISORDER 6A (ZELLWEGER),disease
+23106,C3553948,PEROXISOME BIOGENESIS DISORDER 6B,disease
+23117,C3554001,PEROXISOME BIOGENESIS DISORDER 11B,disease
+23144,C3554241,"CHOLESTASIS, INTRAHEPATIC, OF PREGNANCY 3",disease
+23194,C3554593,"RETINAL DYSTROPHY, IRIS COLOBOMA, AND COMEDOGENIC ACNE SYNDROME",disease
+23310,C3668940,Dmd-Associated Dilated Cardiomyopathy,disease
+23336,C3694531,GLYCOGEN STORAGE DISEASE IXa1,disease
+23347,C3696898,Autosomal Dominant Nocturnal Frontal Lobe Epilepsy,disease
+23400,C3711389,Actin-Accumulation Myopathy,disease
+23407,C3711645,Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency,disease
+23426,C3714580,Hypokalemic periodic paralysis type 1,disease
+23442,C3714753,"RETINOSCHISIS 1, X-LINKED, JUVENILE",disease
+23443,C3714756,Intellectual Disability,group
+23450,C3714873,"Axenfeld-Rieger Syndrome, Type 1",disease
+23453,C3714899,"SYMPHALANGISM, PROXIMAL, 1A",disease
+23456,C3714933,MYOPATHY DUE TO MYOADENYLATE DEAMINASE DEFICIENCY,disease
+23457,C3714934,"MYOPATHY, MYOFIBRILLAR, 3",disease
+23462,C3714948,PACHYONYCHIA CONGENITA 3,disease
+23475,C3715128,"HYPOCALCEMIA, AUTOSOMAL DOMINANT 1",disease
+23585,C3806670,PAROXYSMAL NOCTURNAL HEMOGLOBINURIA 1,disease
+23605,C3807327,"ADVANCED SLEEP PHASE SYNDROME, FAMILIAL, 1",disease
+23620,C3808115,"CATARACT 12, MULTIPLE TYPES",disease
+23666,C3809001,"CATARACT 15, MULTIPLE TYPES",disease
+24124,C3887494,"ECTODERMAL DYSPLASIA 10B, HYPOHIDROTIC/HAIR/TOOTH TYPE, AUTOSOMAL RECESSIVE",disease
+24136,C3887523,Very long chain acyl-CoA dehydrogenase deficiency,disease
+24186,C3887949,Apparent mineralocorticoid excess,disease
+24188,C3887964,POLYCYSTIC KIDNEY DISEASE 3 WITH OR WITHOUT POLYCYSTIC LIVER DISEASE,disease
+24202,C3888065,"ECTODERMAL DYSPLASIA 10A, HYPOHIDROTIC/HAIR/NAIL TYPE, AUTOSOMAL DOMINANT",disease
+24221,C3888198,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",disease
+24228,C3888239,"HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1",disease
+24260,C3888631,Monogenic diabetes,disease
+24424,C4011949,IMMUNODEFICIENCY 27A,disease
+24436,C4012790,Ataxia-Telangiectasisa-Like Disorder 1,disease
+24451,C4013947,IMMUNODEFICIENCY 28,disease
+24466,C4014321,WHITE SPONGE NEVUS 2,disease
+25311,C4021536,Mild conductive hearing impairment,phenotype
+27008,C4048306,Multiple endocrine neoplasia Type 2,disease
+27062,C4049650,Familial Glucocorticoid Deficiency Type 1,disease
+27243,C4082197,Charcot-Marie-Tooth disease type 4,disease
+27480,C4225306,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2V",disease
+27483,C4225309,EPIDERMOLYSIS BULLOSA SIMPLEX WITH NAIL DYSTROPHY,disease
+27540,C4225369,"MYASTHENIC SYNDROME, CONGENITAL, 4B, FAST-CHANNEL",disease
+27574,C4225405,"MYASTHENIC SYNDROME, CONGENITAL, 1B, FAST-CHANNEL",disease
+27593,C4225426,"THYROID CANCER, NONMEDULLARY, 2",disease
+27724,C4275179,Young onset Parkinson disease,disease
+27789,C4282398,Sialidase deficiency,disease
+27790,C4282400,"Polydactyly, Postaxial, Type A1",disease
+27877,C4288927,IFN-gamma Receptor 1 Deficiency,disease
+28133,C4310716,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 42",disease
+28223,C4310809,ANTERIOR SEGMENT DYSGENESIS 5,disease
+28281,C4316870,Abnormality of the eye,phenotype
+28284,C4316899,Cystinosis,disease
+28752,C4520892,Otospondylomegaepiphyseal dysplasia,disease
+29141,C4551479,"Schwartz-Jampel Syndrome, Type 1",disease
+29148,C4551486,ERYTHROKERATODERMIA VARIABILIS ET PROGRESSIVA 1,disease
+29165,C4551504,Oculocutaneous albinism type 1A,disease
+29166,C4551505,Methylcrotonyl-CoA carboxylase deficiency,disease
+29170,C4551509,Jervell And Lange-Nielsen Syndrome 1,disease
+29172,C4551511,X-linked sideroblastic anemia,disease
+29181,C4551527,Focal segmental glomerulosclerosis 1,disease
+29192,C4551557,IMMUNODEFICIENCY-CENTROMERIC INSTABILITY-FACIAL ANOMALIES SYNDROME 1,disease
+29197,C4551563,Microcephaly (physical finding),phenotype
+29222,C4551630,Ichthyosis Congenita I,disease
+29229,C4551647,Long QT Syndrome 1,disease
+29238,C4551681,"Periodontitis, Aggressive, 1",disease
+29245,C4551693,Wolfram Syndrome 1,disease
+29247,C4551702,Branchiootorenal Syndrome 1,disease
+29252,C4551721,PERRAULT SYNDROME 1,disease
+29260,C4551768,"CEREBRAL ARTERIOPATHY, AUTOSOMAL DOMINANT, WITH SUBCORTICAL INFARCTS AND LEUKOENCEPHALOPATHY, TYPE 1",disease
+29269,C4551804,Brugada Syndrome 1,disease
+29271,C4551825,Megaloblastic Anemia 1,disease
+29286,C4551861,"Telangiectasia, Hereditary Hemorrhagic, Type 1",disease
+29294,C4551898,"Cholestasis, progressive familial intrahepatic 1",disease
+29297,C4551902,"Craniosynostosis, Type 1",disease
+29301,C4551906,"Ciliary Dyskinesia, Primary, 1, With Or Without Situs Inversus",disease
+29309,C4551954,HYPEREKPLEXIA 1,disease
+29319,C4551966,GLUT1 DEFICIENCY SYNDROME 1,disease
+29321,C4551968,"Lissencephaly, X-Linked, 1",disease
+29326,C4551973,Miyoshi Muscular Dystrophy 1,disease
+29333,C4551980,HEIMLER SYNDROME 1,disease
+29342,C4551990,Acanthocytosis With Hypobetalipoproteinemia,disease
+29345,C4551995,Mitochondrial DNA Depletion Syndrome 1,disease
+29352,C4552003,"EHLERS-DANLOS SYNDROME, SPONDYLODYSPLASTIC TYPE, 1",disease
+29353,C4552004,Distal Myopathy 1,disease
+29362,C4552070,"Pulmonary Hypertension, Primary, 1",disease
+29363,C4552072,X-linked infantile spasms,disease
+29372,C4552122,"EHLERS-DANLOS SYNDROME, CLASSIC TYPE, 1",disease
+29491,C4692546,"PROTOPORPHYRIA, ERYTHROPOIETIC, 1",disease
+29722,C4707243,Familial thoracic aortic aneurysm and aortic dissection,disease
+29781,C4721541,PEROXISOME BIOGENESIS DISORDER 1A (ZELLWEGER),disease
+29795,C4721769,Citrullinemia Type 1,disease
+29814,C4721890,"CATARACT 2, MULTIPLE TYPES",disease
+29833,C4722273,"ISOLATED GROWTH HORMONE DEFICIENCY, TYPE IV",disease
+29835,C4722277,"NEUROPATHY, CONGENITAL HYPOMYELINATING, 2",disease
+30020,C4746745,"ALPORT SYNDROME 2, AUTOSOMAL RECESSIVE",disease
+30028,C4746986,"ALPORT SYNDROME 1, X-LINKED",disease
+30143,C4748752,"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 3",disease
+30144,C4748753,"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 4",disease
+30146,C4748759,"MITOCHONDRIAL COMPLEX I DEFICIENCY, NUCLEAR TYPE 6",disease
